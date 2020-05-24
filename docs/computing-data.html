@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 6 Computing data | Starter’s guide to Tercen</title>
+  <meta name="description" content="This is a starter’s guide to Tercen" />
+  <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 6 Computing data | Starter’s guide to Tercen" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is a starter’s guide to Tercen" />
+  <meta name="github-repo" content="tercen/starters-guide" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 6 Computing data | Starter’s guide to Tercen" />
+  
+  <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
+  
+
+<meta name="author" content="Tercen support document" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="navigating-to-a-workflow.html"/>
+<link rel="next" href="create-a-team.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-105575395-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="2" data-path="signing-up.html"><a href="signing-up.html"><i class="fa fa-check"></i><b>2</b> Signing up</a></li>
+<li class="chapter" data-level="3" data-path="sign-in.html"><a href="sign-in.html"><i class="fa fa-check"></i><b>3</b> Sign in</a></li>
+<li class="chapter" data-level="4" data-path="getting-started.html"><a href="getting-started.html"><i class="fa fa-check"></i><b>4</b> Getting started</a></li>
+<li class="chapter" data-level="5" data-path="navigating-to-a-workflow.html"><a href="navigating-to-a-workflow.html"><i class="fa fa-check"></i><b>5</b> Navigating to a workflow</a></li>
+<li class="chapter" data-level="6" data-path="computing-data.html"><a href="computing-data.html"><i class="fa fa-check"></i><b>6</b> Computing data</a></li>
+<li class="chapter" data-level="7" data-path="create-a-team.html"><a href="create-a-team.html"><i class="fa fa-check"></i><b>7</b> Create a team</a></li>
+<li class="chapter" data-level="8" data-path="create-a-project.html"><a href="create-a-project.html"><i class="fa fa-check"></i><b>8</b> Create a project</a></li>
+<li class="chapter" data-level="9" data-path="install-operators.html"><a href="install-operators.html"><i class="fa fa-check"></i><b>9</b> Install operators</a></li>
+<li class="chapter" data-level="10" data-path="upload-the-data.html"><a href="upload-the-data.html"><i class="fa fa-check"></i><b>10</b> Upload the data</a></li>
+<li class="chapter" data-level="11" data-path="create-a-workflow.html"><a href="create-a-workflow.html"><i class="fa fa-check"></i><b>11</b> Create a workflow</a></li>
+<li class="chapter" data-level="12" data-path="define-a-view.html"><a href="define-a-view.html"><i class="fa fa-check"></i><b>12</b> Define a view</a></li>
+<li class="chapter" data-level="13" data-path="compute-your-data.html"><a href="compute-your-data.html"><i class="fa fa-check"></i><b>13</b> Compute your data</a></li>
+<li class="chapter" data-level="14" data-path="visualize-the-result.html"><a href="visualize-the-result.html"><i class="fa fa-check"></i><b>14</b> Visualize the result</a></li>
+<li class="chapter" data-level="15" data-path="visualize-a-pairwise.html"><a href="visualize-a-pairwise.html"><i class="fa fa-check"></i><b>15</b> Visualize a pairwise</a></li>
+<li class="chapter" data-level="16" data-path="export-results.html"><a href="export-results.html"><i class="fa fa-check"></i><b>16</b> Export results</a></li>
+<li class="chapter" data-level="17" data-path="known-issues.html"><a href="known-issues.html"><i class="fa fa-check"></i><b>17</b> Known issues</a></li>
+<li class="chapter" data-level="18" data-path="next-steps.html"><a href="next-steps.html"><i class="fa fa-check"></i><b>18</b> Next steps</a></li>
+<li class="chapter" data-level="19" data-path="glossary.html"><a href="glossary.html"><i class="fa fa-check"></i><b>19</b> Glossary</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Starter’s guide to Tercen</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="computing-data" class="section level1">
+<h1><span class="header-section-number">Chapter 6</span> Computing data</h1>
+<p>In this section we will use the preloaded crabs data to show you the possibilities of data computation in the <strong>Tercen cloud</strong>.
+Starting in the project homepage, you will see that the Tutorial workflow and crabs data is preloaded.</p>
+<ul>
+<li>Click on <code>Tutorial workflow</code>
+<center>
+<img src="images/Tut_workflow.png">
+</center>
+<br />
+</li>
+</ul>
+The workflow is shown. This is the environment where you can visualize and compute your data. It will look like the image below
+<center>
+<img src="images/Tut_workflowview.png">
+</center>
+<p><br />
+</p>
+<p>The “crabs_longformat” is preloaded data, containing information about crabs.
+We performed a <strong>PCA</strong> on the data using one of our <strong>Operators</strong>. We call this a <strong>data step</strong>.</p>
+<ul>
+<li><p>Doubleclick on <code>PCA</code></p>
+<center>
+<p><img src="images/Tut_workflowPCA.png"></p>
+</center>
+<p><br />
+You can see that we visualised the data from the crabs_longformat table using heatmap.
+The __ PCA operator__ is shown on the left.
+The data produced by this <strong>data step</strong> can be visualized by adding another <strong>data step</strong>.</p></li>
+<li><p>Go back to the workflow main page by clicking on <code>Tutorial workflow</code></p>
+<center>
+<p><img src="images/Tut_workflowPCAback.png"></p>
+</center>
+<p><br />
+</p></li>
+<li><p>Click on <code>PCA results</code></p></li>
+</ul>
+On the left side of the <strong>projection</strong> you can see the results of the <strong>PCA</strong> are available for visualization.
+<center>
+<img src="images/Tut_workflowPCAresults.png">
+</center>
+<p><br />
+We visualized the data using PC1 and PC2, while coloring the species and sex of the crabs.<br />
+Thanks to the drag and drop way of working in the <strong>Tercen cloud</strong> you can quickly and intuitively visualize the results of your data.</p>
+<p>Your data can be visualized in many ways using the <strong>Tercen cloud</strong> and every visualization can provide different insights. Next we will visualize the crabs_longformat using a pair-wise plot.</p>
+<ul>
+<li>Click on <code>Tutorial workflow</code> to go back to the workflow page</li>
+<li>Click on <code>Pair-wise plot</code></li>
+</ul>
+You will see the <strong>projection</strong> of the <strong>data step</strong>, as seen in the image below.
+<center>
+<img src="images/Tut_workflowpairwise.png">
+</center>
+<p><br />
+In this <strong>projection</strong> you can see that we visualized the differences between male and female, by coloring by sex.
+In the columns you can appreciate that you can add multiple levels, differentiating between the species and the variables.</p>
+<p>You now have an idea of the possibilities using the <strong>Tercen cloud</strong>. For more information about how to upload and work with your own data, continue reading the getting started guide.</p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="navigating-to-a-workflow.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="create-a-team.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

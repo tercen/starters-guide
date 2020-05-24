@@ -1,0 +1,9 @@
+# Getting started
+
+We have preloaded a __Team__, __Project__ and __Dataset__ for the purpose of this tutorial.
+If you want to use the preloaded tutorial, continue to the next section.
+
+* If you want to learn how to create your own team, head over to section 7.\
+* If you want to learn how to create your own project, head over to section 8.\
+* If you want to learn how to install an operator, head over to section 9.\
+* If you want to learn how to upload your own dataset, head over to section 10.\

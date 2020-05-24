@@ -1,27 +1,34 @@
 # Create a project
-In this section you create a personal project ("my project") in Tercen.
+In this section you create a project for your team in the __Tercen cloud__.
 
-* Click on the `my team` on the Tercen home page
+* Head over to your teams by clicking the `Teams` tab
+<center><img src="images/Tut_clickonteams.png"></center>
 
-You are now in the "my team" home page.
+* Click on your New Team
 
-![](images/home_my_team.png)
+<center><img src="images/Project_team.png"></center>
 
-* Click on the `Create a project`
+You are now in the New team home page.\
+* Click on `New project`
+<center><img src="images/Project_newproject.png"></center>
 
-* Enter "my project" in the `Name` and click `OK`
-![](images/create_project.png)
+* Enter your desired project name in the `Name`
+* Provide a "Project description" in the `Description`
+<center><img src="images/Project_nameproject.png"></center>
+\
+* Click `OK`
 
-* You see an entry entitled "my project" on the top bar.
-You have created a project
-![](images/my_project.png)
+<center><img src="images/Project_made.png"></center>
 
-* Click on `my project`
 
-You are now in the "my project home page" and notice the new entries on the left:
+You are now on the homepage of your new project.
+You can observe the tools:
 
-    + `Create a data set`
-    + `Create workflow`
-    + `Import a workflow`
 
-The guide fill cover these in later chapters, but first we will install an operator in the next chapter.
+`New data set`  
+    `New workflow`  
+    `New file`  
+    `Import file`  
+    `Import a workflow`  
+
+You have now created a new project for your team to work on. In the next section you will install usefull operators for your team to compute your data with.

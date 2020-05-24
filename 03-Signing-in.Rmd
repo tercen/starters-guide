@@ -1,0 +1,28 @@
+# Sign in
+In this section you logging into the __Tercen cloud__.
+
+* Click on the verification email for your Tercen account\
+Or
+* Go to https://Tercen.com and click on  `Sign in`
+
+<center><img src="images/Tercen_signin_signin.png"></center>
+\ 
+
+You should now see the sign in menu
+ 
+<center><img src="images/Tercen_signin_logon.png"></center>
+\ 
+
+* Enter your username and password
+<center><img src="images/Tercen_signin_details.png"></center>
+\ 
+
+* Click on `Sign in`
+
+You should see the the homepage of your account, similar to the image below.
+\ 
+
+<img src="images/Tercen_signin_logedin.png">
+
+You are now signed in to the __Tercen cloud__.
+In the next section you can decide to use our preloaded data or create your own.
