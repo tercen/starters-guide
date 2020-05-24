@@ -1,24 +1,19 @@
 # Export results
-In this section you export the results to another table. 
+In this section you will export the results to a downloadable file. 
 
+Head over to the "My new workflow" workflow.
 
-* Click on the `crabs workflow` page
 * Right click on the `PCA` step and choose `Add`
-* Select the `Export` step
-* Drag the new `Export` step to the right
 
-Your workflow should look like:
-
-![](images/workflow_with_export.png)
-
+* Select `Export'
 
 * Right click on the `Export` step and select `Run`
 
-It has now a green status. It has exported as data to `my project` 
+It has now been activated, showing a green status, exporting the data to "New Project" 
 
 ![](images/workflow_with_export_run.png)
 
-* Go to the `my project` page by clicking it on the top bar
+* Go to the "New Project" page by clicking it on the top bar
 
 ![](images/my_project_before_refresh.png)
 

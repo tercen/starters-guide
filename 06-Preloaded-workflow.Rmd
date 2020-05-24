@@ -1,0 +1,50 @@
+# Computing data
+
+In this section we will use the preloaded crabs data to show you the possibilities of data computation in the __Tercen cloud__.
+Starting in the project homepage, you will see that the Tutorial workflow and crabs data is preloaded.
+
+* Click on `Tutorial workflow`
+<center><img src="images/Tut_workflow.png"></center>
+\
+
+The workflow is shown. This is the environment where you can visualize and compute your data. It will look like the image below
+<center><img src="images/Tut_workflowview.png"></center>
+\
+
+
+The "crabs_longformat" is preloaded data, containing information about crabs. 
+We performed a __PCA__ on the data using one of our __Operators__. We call this a __data step__.
+
+* Doubleclick on `PCA`
+<center><img src="images/Tut_workflowPCA.png"></center>
+\
+You can see that we visualised the data from the crabs_longformat table using heatmap.
+The __ PCA operator__ is shown on the left.
+The data produced by this __data step__ can be visualized by adding another __data step__.
+
+* Go back to the workflow main page by clicking on `Tutorial workflow`
+<center><img src="images/Tut_workflowPCAback.png"></center>
+\
+
+* Click on `PCA results`
+
+On the left side of the __projection__ you can see the results of the __PCA__ are available for visualization. 
+<center><img src="images/Tut_workflowPCAresults.png"></center>
+\
+We visualized the data using PC1 and PC2, while coloring the species and sex of the crabs.\
+Thanks to the drag and drop way of working in the __Tercen cloud__ you can quickly and intuitively visualize the results of your data. 
+
+Your data can be visualized in many ways using the __Tercen cloud__ and every visualization can provide different insights. Next we will visualize the crabs_longformat using a pair-wise plot. 
+
+* Click on `Tutorial workflow` to go back to the workflow page
+* Click on `Pair-wise plot`
+
+You will see the __projection__ of the __data step__, as seen in the image below.
+<center><img src="images/Tut_workflowpairwise.png"></center>
+\
+In this __projection__ you can see that we visualized the differences between male and female, by coloring by sex.
+In the columns you can appreciate that you can add multiple levels, differentiating between the species and the variables.
+
+You now have an idea of the possibilities using the __Tercen cloud__. For more information about how to upload and work with your own data, continue reading the getting started guide. 
+
+

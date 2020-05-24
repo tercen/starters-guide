@@ -1,0 +1,23 @@
+# Signing up
+In this section you will create an account for __Tercen__ 
+We highly recommend using __google chrome__ while using __Tercen Cloud__.
+
+* Go to https://Tercen.com
+
+<center><img src="images/Tercen_signup_empty.png"></center>
+
+* Create an account by filling in the:
+  * Username
+  * Email
+  * Password
+  
+<center><img src="images/Tercen_signup_user.png"></center>
+
+You have now created an account.
+
+* Verify your account by clicking the link in the email we sent you
+
+<center><img src="images/Tercen_signup_verification.png"></center>
+
+You have a verified account now. \
+The next step is signing in using your newly created account.

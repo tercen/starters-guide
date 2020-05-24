@@ -1,0 +1,24 @@
+# Create a team
+In this section you create a new team in the __Tercen cloud__.
+
+Once logged in you will see your accounts homepage, similar to the image below.
+<center><img src="images/Tercen_homepage.png"></center>
+
+* Click on `Teams`
+<center><img src="images/Tut_clickonteams.png"></center>
+\
+* Click on `New team`
+<center><img src="images/Team_newteam.png"></center>
+
+
+* Enter your desired team name in `Name`
+* Add your teammembers to the team by typing their names in the `Add team members` and clicking `Add`
+(Start with your own name)
+* Provide them with the right privileges using the dropdown menu 
+
+<center><img src="images/Team_Nameteam.png"></center>
+* Click `OK`
+
+* You will now find your team underneath the `Teams` tab
+
+You have now created a team in __Tercen__. The next section will teach you how to create a project for your team to work on.
