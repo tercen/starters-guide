@@ -1,5 +1,5 @@
 # Sign in
-In this section you logging into the __Tercen cloud__.
+In this section you logging into __tercen__.
 
 * Click on the verification email for your Tercen account\
 Or
@@ -19,10 +19,10 @@ You should now see the sign in menu
 
 * Click on `Sign in`
 
-You should see the the homepage of your account, similar to the image below.
+You should see your personal page, similar to the image below.
 \ 
 
 <img src="images/Tercen_signin_logedin.png">
 
-You are now signed in to the __Tercen cloud__.
-In the next section you can decide to use our preloaded data or create your own.
+You are now signed in to __tercen__.
+In the next section we will take a look at your personal page.

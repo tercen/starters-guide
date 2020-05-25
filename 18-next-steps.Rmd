@@ -2,10 +2,10 @@
 Here are some ideas:
 
 * Try to upload different data sets and play with making different projection visuals
-* Try to code for different operators using the ``teRcen`` R package, Note when using RStudio it will autocomplete when you type the methods on the tercen client and tercen query object.
+* Read the online [__tercen book__](https://tercen.github.io/tercen-book/)
+* Give feedback on __tercen__ by sending an email to `info@tercen.com`
 * Give feedback on this starters's guide by creating an [issue](https://github.com/tercen/starters-guide2/issues)
-* Read the online [__Tercen Book__](https://tercen.github.io/tercen-book/)
-* For app developers read the online [__app builders guide__](https://tercen.github.io/appbuilders-guide/)
-* Give feedback on __Tercen__ by sending an email to `info@tercen.com`
-* Contact us for a one-2-one session
+* [__Book a one-2-one session__](https://calendly.com/tercen-demo/tercen-demo) for further guidance  
+
+
 <center>![](images/stairs.png)</center>

@@ -1,5 +1,5 @@
 # Create a project
-In this section you create a project for your team in the __Tercen cloud__.
+In this section you create a project for your team in __tercen__.
 
 * Head over to your teams by clicking the `Teams` tab
 <center><img src="images/Tut_clickonteams.png"></center>
