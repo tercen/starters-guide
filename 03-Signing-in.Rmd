@@ -25,4 +25,4 @@ You should see your personal page, similar to the image below.
 <img src="images/Tercen_signin_logedin.png">
 
 You are now signed in to __tercen__.
-In the next section you will clone the tutorial project.
+In the next section we will take a look at your personal page.

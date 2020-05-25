@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 9 Create a project | Starter’s guide to Tercen</title>
+  <title>Chapter 6 Navigating a workflow | Starter’s guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 9 Create a project | Starter’s guide to Tercen" />
+  <meta property="og:title" content="Chapter 6 Navigating a workflow | Starter’s guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="tercen/starters-guide" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 9 Create a project | Starter’s guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 6 Navigating a workflow | Starter’s guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="create-a-team.html"/>
-<link rel="next" href="install-operators.html"/>
+<link rel="prev" href="cloning-a-project.html"/>
+<link rel="next" href="create-your-own-project.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -111,45 +111,91 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="create-a-project" class="section level1">
-<h1><span class="header-section-number">Chapter 9</span> Create a project</h1>
-<p>In this section you create a project for your team in <strong>tercen</strong>.</p>
+<div id="navigating-a-workflow" class="section level1">
+<h1><span class="header-section-number">Chapter 6</span> Navigating a workflow</h1>
+<p>In this section we will walk through the cloned tutorial project on <strong>tercen</strong>.</p>
+<p>You start of on your personal page. We will now navigate to the tutorial <strong>Workflow</strong> where you can compute your data.</p>
 <ul>
-<li>Head over to your teams by clicking the <code>Teams</code> tab
+<li><p>Click on <code>Teams</code></p>
 <center>
-<img src="images/Tut_clickonteams.png">
+<p><img src="images/Tut_clickonteams.png"></p>
+</center>
+<p> </p></li>
+<li><p>Click on <code>Tutorial team</code></p>
+<center>
+<p><img src="images/Tut_clickonteam.png"></p>
+</center>
+<p> </p></li>
+<li><p>Click on <code>Tutorial project</code></p>
+<center>
+<p><img src="images/Tut_clickonproject.png"></p>
 </center></li>
-<li>Click on your New Team</li>
+</ul>
+<p>You are now on the homepage of the tutorial project. Here you will see:</p>
+<ul>
+<li>The datasets that are uploaded</li>
+<li>The workflows created by your team</li>
+<li>The discussions with your team</li>
+<li>All activities done by your team</li>
 </ul>
 <center>
-<img src="images/Project_team.png">
+<img src="images/Tut_projecthomepage.png">
 </center>
-You are now in the New team home page.<br />
-* Click on <code>New project</code>
-<center>
-<img src="images/Project_newproject.png">
-</center>
+<p><br />
+</p>
 <ul>
-<li>Enter your desired project name in the <code>Name</code></li>
-<li>Provide a “Project description” in the <code>Description</code>
+<li>Click on <code>Tutorial workflow</code>
 <center>
-<img src="images/Project_nameproject.png">
+<img src="images/Tut_workflow.png">
 </center>
 <br />
 </li>
-<li>Click <code>OK</code></li>
 </ul>
+The workflow is shown. This is the environment where you can visualize and compute your data. It will look like the image below
 <center>
-<img src="images/Project_made.png">
+<img src="images/Tut_workflowview.png">
 </center>
-<p>You are now on the homepage of your new project.
-You can observe the tools:</p>
-<p><code>New data set</code><br />
-<code>New workflow</code><br />
-<code>New file</code><br />
-<code>Import file</code><br />
-<code>Import a workflow</code></p>
-<p>You have now created a new project for your team to work on. In the next section you will install usefull operators for your team to compute your data with.</p>
+<p><br />
+</p>
+<p>The “crabs_longformat” is preloaded data, containing information about crabs.
+We performed a <strong>PCA</strong> on the data using one of our <strong>Operators</strong>. We call this a <strong>data step</strong>.</p>
+<ul>
+<li><p>Doubleclick on <code>PCA</code></p>
+<center>
+<p><img src="images/Tut_workflowPCA.png"></p>
+</center>
+<p><br />
+You can see that we visualised the data from the crabs_longformat table using heatmap.
+The __ PCA operator__ is shown on the left.
+The data produced by this <strong>data step</strong> can be visualized by adding another <strong>data step</strong>.</p></li>
+<li><p>Go back to the workflow main page by clicking on <code>Tutorial workflow</code></p>
+<center>
+<p><img src="images/Tut_workflowPCAback.png"></p>
+</center>
+<p><br />
+</p></li>
+<li><p>Click on <code>PCA results</code></p></li>
+</ul>
+On the left side of the <strong>projection</strong> you can see the results of the <strong>PCA</strong> are available for visualization.
+<center>
+<img src="images/Tut_workflowPCAresults.png">
+</center>
+<p><br />
+We visualized the data using PC1 and PC2, while coloring the species and sex of the crabs.<br />
+Thanks to the drag and drop way of working in <strong>tercen</strong> you can quickly and intuitively visualize the results of your data.</p>
+<p>Your data can be visualized in many ways using <strong>tercen</strong> and every visualization can provide different insights. Next we will visualize the crabs_longformat using a pair-wise plot.</p>
+<ul>
+<li>Click on <code>Tutorial workflow</code> to go back to the workflow page</li>
+<li>Click on <code>Pair-wise plot</code></li>
+</ul>
+You will see the <strong>projection</strong> of the <strong>data step</strong>, as seen in the image below.
+<center>
+<img src="images/Tut_workflowpairwise.png">
+</center>
+<p><br />
+In this <strong>projection</strong> you can see that we visualized the differences between male and female, by coloring by sex.
+In the columns you can appreciate that you can add multiple levels, differentiating between the species and the variables.</p>
+<p>You now have an idea of the possibilities using <strong>tercen</strong>. For more information about how to upload and work with your own data, continue reading the getting started guide.</p>
 
 </div>
             </section>
@@ -157,8 +203,8 @@ You can observe the tools:</p>
           </div>
         </div>
       </div>
-<a href="create-a-team.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="install-operators.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="cloning-a-project.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="create-your-own-project.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
