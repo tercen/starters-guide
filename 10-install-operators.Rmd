@@ -1,5 +1,5 @@
 # Install operators
-In this section you will install operators in the __Tercen cloud__ for your team to use.
+In this section you will install operators in the __tercen__ for your team to use.
 
 * Go to the team homepage you want to install __operators__ for
 
@@ -22,4 +22,4 @@ A list of operators available on the tercen library will appear.
 
 <center><img src="images/Operator_done.png"></center>
 
-You have now installed an operator that can be used by this team. The next section will show you how to upload data to the __Tercen cloud__
+You have now installed an operator that can be used by this team. The next section will show you how to upload data to __tercen__

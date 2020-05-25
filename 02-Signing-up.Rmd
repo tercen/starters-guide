@@ -1,6 +1,6 @@
 # Signing up
-In this section you will create an account for __Tercen__ 
-We highly recommend using __google chrome__ while using __Tercen Cloud__.
+In this section you will create an account for __tercen__ 
+We highly recommend using __google chrome__ while using __tercen__.
 
 * Go to https://Tercen.com
 

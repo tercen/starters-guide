@@ -1,0 +1,13 @@
+# Create your own project
+
+Congratulations, you've cloned a project and you can appreciate the possibilities in the __tercen__ workflow. 
+
+Now we show you how to create the project you have seen in the previous chapters together.
+
+Cool picture
+
+(make active sentences with hyperlinks)
+* If you want to learn how to create your own team, head over to section 7.\
+* If you want to learn how to create your own project, head over to section 8.\
+* If you want to learn how to install an operator, head over to section 9.\
+* If you want to learn how to upload your own dataset, head over to section 10.\

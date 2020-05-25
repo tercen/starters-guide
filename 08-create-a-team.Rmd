@@ -1,5 +1,5 @@
 # Create a team
-In this section you create a new team in the __Tercen cloud__.
+In this section you create a new team in the __tercen__.
 
 Once logged in you will see your accounts homepage, similar to the image below.
 <center><img src="images/Tercen_homepage.png"></center>
@@ -21,4 +21,4 @@ Once logged in you will see your accounts homepage, similar to the image below.
 
 * You will now find your team underneath the `Teams` tab
 
-You have now created a team in __Tercen__. The next section will teach you how to create a project for your team to work on.
+You have now created a team in __tercen__. The next section will teach you how to create a project for your team to work on.

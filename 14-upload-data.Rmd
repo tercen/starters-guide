@@ -1,7 +1,7 @@
 # Upload the data
 In this section you will upload a dataset to your teams project.
 
-The __Tercen cloud__ accepts data in either _.tsv_ or _csv_. The example data set ``crabs_longformat.csv`` is in a _.csv_ format and is in a _long format_. On the bottom of this section we will show the differences between a _long format_ and a _wide format. Also we provide you with the example dataset's download location, which we advice you to use for this guide.
+__tercen__ accepts data in either _.tsv_ or _csv_. The example data set ``crabs_longformat.csv`` is in a _.csv_ format and is in a _long format_. On the bottom of this section we will show the differences between a _long format_ and a _wide format. Also we provide you with the example dataset's download location, which we advice you to use for this guide.
 
 Navigate to your projects homepage. 
 
@@ -24,7 +24,7 @@ You will see which column headers were detected and the detected data type.
 
 * Click `Next`
 
-The __Tercen cloud__ will need your table to be in a _long format_.
+__tercen__ will need your table to be in a _long format_.
 Now you will have the option to transform your uploaded data table from a _wide format_ into a _long format_ if needed.
 <center><img src="images/Data_widetolong.png"></center>
 \
