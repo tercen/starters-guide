@@ -1,14 +1,14 @@
 # Create a team
 In this section you create a new team in the __tercen__.
 
-Once logged in you will see your accounts homepage, similar to the image below.
-<center><img src="images/Tercen_homepage.png"></center>
+Once logged in you see your accounts homepage, similar to the image below.
+<center><img src="images/view_personal_page.png"></center>
 
 * Click on `Teams`
-<center><img src="images/Tut_clickonteams.png"></center>
+<center><img src="images/click_on_teams.png"></center>
 \
 * Click on `New team`
-<center><img src="images/Team_newteam.png"></center>
+<center><img src="images/click_on_new_team.png"></center>
 
 
 * Enter your desired team name in `Name`
@@ -16,7 +16,7 @@ Once logged in you will see your accounts homepage, similar to the image below.
 (Start with your own name)
 * Provide them with the right privileges using the dropdown menu 
 
-<center><img src="images/Team_Nameteam.png"></center>
+<center><img src="images/name_team.png"></center>
 * Click `OK`
 
 * You will now find your team underneath the `Teams` tab

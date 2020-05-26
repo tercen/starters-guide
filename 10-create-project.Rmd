@@ -2,23 +2,23 @@
 In this section you create a project for your team in __tercen__.
 
 * Head over to your teams by clicking the `Teams` tab
-<center><img src="images/Tut_clickonteams.png"></center>
+<center><img src="images/click_on_teams.png"></center>
 
 * Click on your New Team
 
-<center><img src="images/Project_team.png"></center>
+<center><img src="images/click_on_new_team.png"></center>
 
 You are now in the New team home page.\
 * Click on `New project`
-<center><img src="images/Project_newproject.png"></center>
+<center><img src="images/click_on_new_project.png"></center>
 
 * Enter your desired project name in the `Name`
 * Provide a "Project description" in the `Description`
-<center><img src="images/Project_nameproject.png"></center>
+<center><img src="images/give_name_to_project.png"></center>
 \
 * Click `OK`
 
-<center><img src="images/Project_made.png"></center>
+<center><img src="images/view_completed_project.png"></center>
 
 
 You are now on the homepage of your new project.
