@@ -1,10 +1,11 @@
 # Cloning a project
 
-In this section we clone a project from __tercen__. Doing so you copy the uploaded data and workflow. 
+In this section we clone (i.e. make a copy) the crabs project from __tercen__ and place it in your personal team.
 
 * Head to your personal page
 * Click on `Explore`
-Picture
+
+
 * Scroll down to `tercen/tutorialproject`
 * Click on `tercen/tutorialproject`
 
@@ -21,6 +22,7 @@ Picture
 * Click `Ok`
 
 You are now in your personal team with a clone of the tutorialproject. 
+
 Picture
 
 In the next section we will navigate the cloned project.

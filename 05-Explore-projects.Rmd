@@ -28,4 +28,4 @@ You are now in your personal team with a clone of the tutorialproject.
 
 <center><img src="images/team.png"></center>
 
-In the next section we will navigate the cloned project.
+In the next section we learn how to  clone a public project.

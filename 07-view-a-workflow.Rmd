@@ -1,18 +1,19 @@
-# Navigating a workflow
-In this section we will walk through the cloned tutorial project on __tercen__. 
+# View a workflow
 
-You start of on your personal page. We will now navigate to the tutorial __Workflow__ where you can compute your data.
+In this section we walk you through the crabs project you just cloned in the prevous section.
+
+You start off at your personal page. We will now navigate to the tutorial __Workflow__ where you can compute your data.
 
 * Click on `Teams`
-<center><img src="images/Tut_clickonteams.png"></center>
+<center><img src="images/click_on_teams.png"></center>
 \ 
 
 * Click on `Tutorial team`
-<center><img src="images/Tut_clickonteam.png"></center>
+<center><img src="images/click_on_crabs_team.png"></center>
 \ 
 
 * Click on `Tutorial project`
-<center><img src="images/Tut_clickonproject.png"></center>
+<center><img src="images/click_on_crabs_project.png"></center>
 
 You are now on the homepage of the tutorial project. Here you will see:
 
