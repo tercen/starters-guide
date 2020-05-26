@@ -4,28 +4,14 @@ In this section you explore __tercen__ public projects. Doing so will copy the u
 
 * Click on `Explore`
 
-<center><img src="images/explore.png"></center>
+<center><img src="images/explore_public_projects.png"></center>
 
 
-* Scroll down to `tercen/tutorialproject`
-* Click on `tercen/tutorialproject`
+* Scroll down to `tercen/crabs_tutorial`
+* Click on `tercen/crabs_tutorial`
 
-You can now see the chosen project and its files.
+You can now see the crabs tutorial project and its files.
 
-* The icon for cloning is shown in the top right
 
-<center><img src="images/clone.png"></center>
-
-* Click on the cloning icon
-
-A popup will show, giving you the option to clone to any team you're in.
-
-<center><img src="images/what_team.png"></center>
-
-* Click `Ok`
-
-You are now in your personal team with a clone of the tutorialproject. 
-
-<center><img src="images/team.png"></center>
 
 In the next section we learn how to  clone a public project.

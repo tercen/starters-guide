@@ -1,5 +1,6 @@
 # Create a project
-In this section you create a project for your team in __tercen__.
+
+In this section you create a project for your team.
 
 * Head over to your teams by clicking the `Teams` tab
 <center><img src="images/click_on_teams.png"></center>
@@ -31,4 +32,4 @@ You can observe the tools:
     `Import file`  
     `Import a workflow`  
 
-You have now created a new project for your team to work on. In the next section you will install usefull operators for your team to compute your data with.
+You have now created a new project for your team. In the next section you install usefull operators for your team.
