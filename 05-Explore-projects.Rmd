@@ -13,5 +13,4 @@ In this section you explore __tercen__ public projects. Doing so will copy the u
 You can now see the crabs tutorial project and its files.
 
 
-
 In the next section we learn how to  clone a public project.
