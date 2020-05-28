@@ -19,7 +19,7 @@ This step-by-step guide outlines how to upload, view, compute and share data usi
 <center><img src="images/cover.png"></center>
 
 * __Why read this guide?__ :
-It is the easiest and quickest path to understanding the basics of Tercen. 
+It is the easiest and quickest path to understanding the basics of __tercen__. 
 
 * __Acknowledgement__:
 I would like to thank all the users for their feedback. It has helped us improve __tercen__.
@@ -28,7 +28,7 @@ I would like to thank all the users for their feedback. It has helped us improve
 If you wish to give feedback then please do not hesitate to create an entry in the [issue tracker](https://github.com/tercen/starters-guide/issues).
 
 * __Motivation__:  
-Tercen  promotes collaboration for data analysis. Not everyone can code or even wants to,  but everyone should benefit from the explosion of data and code currently taking place.
+__Tercen__  promotes collaboration for data analysis. Not everyone can code or even wants to,  but everyone should benefit from the explosion of data and code currently taking place.
 Tercen allows non programmers (e.g. biologists) to explore their data and allows programmers (e.g. bioinformaticians) to upload their code (or web-apps) for the biologist to use. By offering these services we believe biologists get empowered and can claim back control of their data. The bioinformatician gets liberated from the operational details and day to day analysis demands from the biologist. This is summed up with the phrase:
 
 > Tercen __empowers__ the biologist and __liberates__ the bioinformatician.
