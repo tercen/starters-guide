@@ -32,5 +32,6 @@ __tercen__ allows non programmers (e.g. biologists) to explore their data and al
 
 > Tercen __empowers__ the biologist and __liberates__ the bioinformatician.
 
-\
-<img align="right"src="images/stairs.png">
+
+<center><img src="images/stairs.png"></center>
+
