@@ -1,0 +1,43 @@
+# Create a workflow
+
+In this section you create a workflow in your project area.
+
+* Go to the project homepage
+* Click on `New workflow`
+
+<center><img src="images/click_on_new_Workflow.png"></center>\
+
+* Provide a descriptive name for your new workflow, we will go with "My getting started workflow"
+
+<center><img src="images/view_Workflow_name.png"></center>\
+
+* Click `OK`
+
+You now have an empty __workflow__ titled "My new workflow".
+
+<center><img src="images/view_empty_workflow.png"></center>
+
+* Right click in the middle of the empty page and select `Add`
+
+<center><img src="images/right_click_add_in_Workflow.png"></center>
+
+
+* Click on `Table`
+
+<center><img src="images/click_on_table.png"></center>\
+
+* Select the data `crabs_long`
+
+<center><img src="images/select_crabs_table.png"></center>\
+
+* Click on `OK`
+
+A box appears in the workflow, and its called a __step__.
+
+A new step named "Crab data" appears in your workflow.\
+
+<center><img src="images/view_Workflow_with_crabs_data.png"></center>
+
+You have now successfully imported the crabs data set into the projects workflow.
+
+In the next section we visualize the data using __projections__. 

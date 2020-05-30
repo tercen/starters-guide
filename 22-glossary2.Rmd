@@ -1,5 +1,6 @@
 # Upload the data
-In this section you will upload a dataset to your teams project.
+
+In this section you upload a dataset to your teams project.
 
 __tercen__ accepts data in either _.tsv_ or _csv_. The example data set ``crabs_longformat.csv`` is in a _.csv_ format and is in a _long format_. On the bottom of this section we will show the differences between a _long format_ and a _wide format. Also we provide you with the example dataset's download location, which we advice you to use for this guide.
 

@@ -1,4 +1,5 @@
 # Define a view
+
 In this section you will create a visual representation of the data using __projections__  on your imported data.
 
 * Right click on the `Crab data` __step__ and select `Add`
