@@ -1,6 +1,6 @@
-This is start guide for Tercen
+This is start guide for tercen
 
 The online web form is found at:
 
-(https://tercen.github.io/starters-guide2/)
+(https://tercen.github.io/starters-guide/)
 

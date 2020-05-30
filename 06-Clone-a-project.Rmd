@@ -1,0 +1,24 @@
+# Cloning a project
+
+In this section we clone (i.e. make a copy) the crabs project from __tercen public projects__ and place it in your personal team.
+
+* Scroll down to `tercen/crabs tutorial project`
+* Click on `tercen/crabs tutorial project`
+
+You can now see the chosen crab project and its files.
+
+* The icon for cloning is shown in the top right
+
+<center><img src="images/clone_project.png"></center>
+
+* Click on the cloning icon
+
+A popup will show, giving you the option to clone to any team you're in.
+
+<center><img src="images/select_personal_team.png"></center>
+
+* Click `Ok`
+
+You now have cloned the project into your personal team.
+
+<center><img src="images/view_cloned_crabs_project.png"></center>

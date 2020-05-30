@@ -1,9 +1,10 @@
-# Navigate your personal page
+# View personal page
 
-In this section we will explain the options on your personal page.
+In this section we give an overview of your personal page.
 
-Once logged in you will enter your personal page, similar to the image below.
-Picture
+Once logged in you enter your personal page, similar to the image below.
+
+<center><img src="images/view_personal_page.png"></center>
 
 - Explain projects, teams, library, activities, subscription
 - Navigating back to the personal page
@@ -11,4 +12,4 @@ Picture
 - Indicate Documentation -> the getting started guide and other guides if they want to take another look
 
 
-In the next section we will head over to the __Explore__ section to clone a project. 
+In the next section you learn how to __Explore__ public projects.

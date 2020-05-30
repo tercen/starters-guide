@@ -1,35 +1,40 @@
-# Navigating a workflow
-In this section we will walk through the cloned tutorial project on __tercen__. 
+# View a workflow
 
-You start of on your personal page. We will now navigate to the tutorial __Workflow__ where you can compute your data.
+In this section we walk you through the crabs project you just cloned in the prevous section.
+
+You start off in your personal page, and you navigate to project.
 
 * Click on `Teams`
-<center><img src="images/Tut_clickonteams.png"></center>
+<center><img src="images/click_on_teams.png"></center>
 \ 
 
 * Click on `Tutorial team`
-<center><img src="images/Tut_clickonteam.png"></center>
+<center><img src="images/click_on_crabs_team.png"></center>
 \ 
 
 * Click on `Tutorial project`
-<center><img src="images/Tut_clickonproject.png"></center>
+<center><img src="images/click_on_crabs_project.png"></center>
 
-You are now on the homepage of the tutorial project. Here you will see:
+You are now on the crabs project page and it looks like:
 
-* The datasets that are uploaded
-* The workflows created by your team
-* The discussions with your team
-* All activities done by your team
-
-<center><img src="images/Tut_projecthomepage.png"></center>
+<center><img src="images/view_crabs_project_page.png"></center>
 \
+
+it contains the folllowing:
+
+* Project tab
+    * Data
+    * Workflow
+* Discussion tab
+* Activity tab
+
 
 * Click on `Tutorial workflow`
-<center><img src="images/Tut_workflow.png"></center>
+<center><img src="images/click_on_crabs_workflow.png"></center>
 \
 
-The workflow is shown. This is the environment where you can visualize and compute your data. It will look like the image below
-<center><img src="images/Tut_workflowview.png"></center>
+The workflow is opened and can interact on your data. It will look like the image below:
+<center><img src="images/view_crabs_workflow.png"></center>
 \
 
 
@@ -44,13 +49,17 @@ The __ PCA operator__ is shown on the left.
 The data produced by this __data step__ can be visualized by adding another __data step__.
 
 * Go back to the workflow main page by clicking on `Tutorial workflow`
-<center><img src="images/Tut_workflowPCAback.png"></center>
+
+<center><img src="images/click_on_crabs_worklow_PCA_back.png"></center>
 \
 
 * Click on `PCA results`
 
+
+
 On the left side of the __projection__ you can see the results of the __PCA__ are available for visualization. 
-<center><img src="images/Tut_workflowPCAresults.png"></center>
+
+<center><img src="images/view_PCA_results.png"></center>
 \
 We visualized the data using PC1 and PC2, while coloring the species and sex of the crabs.\
 Thanks to the drag and drop way of working in __tercen__ you can quickly and intuitively visualize the results of your data. 
@@ -61,7 +70,8 @@ Your data can be visualized in many ways using __tercen__ and every visualizatio
 * Click on `Pair-wise plot`
 
 You will see the __projection__ of the __data step__, as seen in the image below.
-<center><img src="images/Tut_workflowpairwise.png"></center>
+
+<center><img src="images/view_pairwise.png"></center>
 \
 In this __projection__ you can see that we visualized the differences between male and female, by coloring by sex.
 In the columns you can appreciate that you can add multiple levels, differentiating between the species and the variables.
