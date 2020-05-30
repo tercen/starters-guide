@@ -20,4 +20,4 @@ You have now created a team and it is in your team list.
 <center><img src="images/view_teams_with_crab_team.png"></center>
 
 
-The next section you create a project within the team.
+In the next section you create a project within the team.

@@ -6,10 +6,35 @@ Once logged in you enter your personal page, similar to the image below.
 
 <center><img src="images/view_personal_page.png"></center>
 
-- Explain projects, teams, library, activities, subscription
-- Navigating back to the personal page
-- Logging out
-- Indicate Documentation -> the getting started guide and other guides if they want to take another look
+On the personal page you see the tabs:\
+  * `Projects`\
+  * `Teams`\
+  * `Library`\
+  * `Activities`\
+  * `Subscription`\
 
+The `Projects` tab shows every project you are involved in.\
+The `Teams` tab shows every team you are a part of.\
+The `Library` tab depicts which operators are installed for usage in the workflows.\
+The `Activities` tab shows every adjustment made to a project or team\
+The `Subscription` tab enables you to upgrade your account, doing so will:\
+  * Provide you with more storage\
+  * Obtain more computing time for your projects\
+  * Get more training and guidance from __tercen__\
+
+
+If at any point you want to return to your personal page, click on `Home` in the top left corner, as indicated in the image below.
+
+image of the `Home` button highlighted.
+
+If at any point want to open the __Starter guide__ or the more elaborate __Book__:\
+* Click on the `Documentation` button on the top right of your personal page\
+* Select `Starters guide`\
+  Or\
+* Select `Book`\
+
+When you're done using __tercen__ and you want to log out\
+* Click the `Logout button`, shown in the image below
+Image of logout button
 
 In the next section you learn how to __Explore__ public projects.

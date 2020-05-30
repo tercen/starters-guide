@@ -1,5 +1,5 @@
 # Visualize the result
-In this section you will visualize the output of your PCA computation. The visualization uses two principal components in a pair-wise plot.
+In this section we visualize the output of your PCA computation. The visualization uses two principal components in a pair-wise plot.
 
 * Right click on the data step "PCA" and select `Add` 
 
@@ -38,4 +38,4 @@ Now you create the required projection:
 
 * Save workflow by clicking on the save icon beside the "My new workflow"  
 
-You visualized the Crabs data to provide a clear representation, indicating differences between the sexes. Next we will visualize the data using a multi-group pairwise projection.
+We visualized the crabs data to provide a clear representation, indicating differences between the sexes. In the next section we visualize the data using a multi-group pairwise projection.

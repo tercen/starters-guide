@@ -1,5 +1,5 @@
 # Define a view
-In this section you will create a visual representation of the data using __projections__  on your imported data.
+In this section we create a visual representation of the data using __projections__  on the imported data.
 
 * Right click on the `Crab data` __step__ and select `Add`
 
@@ -62,4 +62,4 @@ The projection window should now show the following:
 * Save your workflow by clicking on the "save icon" besides the \\My new workflow
 
 
-You visualized the data for the first time in the  __Tercen cloud__. In the next section we will compute the data to discover new insights.
+We visualized the data for the first time in the  __Tercen cloud__. In the next section we use computation on the data to discover new insights.

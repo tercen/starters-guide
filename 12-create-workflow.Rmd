@@ -1,5 +1,5 @@
 # Create a workflow
-In this section you will create a workflow in your project area.
+In this section we create a workflow in your project area.
 
 * Go to the project homepage
 * Click on `New workflow`
@@ -33,4 +33,4 @@ A new step named "Crab data" will appear in your workflow.\
 
 * If the step's name is not correct or descriptive: Select the box, right click and select `Rename`
 
-You have now successfully imported the crabs data set into the projects workflow. In the next section we will view the data using __projections__. 
+You have now successfully imported the crabs data set into the projects workflow. In the next section we view the data using __projections__. 

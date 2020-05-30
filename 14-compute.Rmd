@@ -1,5 +1,5 @@
 # Compute your data
-In this section you will perform a computation by selecting an previously installed operator and running it on your data.
+In this section we perform a computation by selecting a previously installed operator and running it on the data.
 
 
 The projection you created in the previous section can also be used by a computation (i.e. __operator__).
@@ -44,4 +44,4 @@ The steps in the workflow can be dragged to your liking. Try to keep your workfl
 
 * Save the entire workflow by clicking on the save icon
 
-You have computed a PCA on the data. The next sections will cover viewing the results of the PCA. 
+We have computed a PCA on the data. In the upcoming sections we take a look at the results of the PCA. 
