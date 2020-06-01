@@ -1,6 +1,7 @@
 # Explore projects
 
-In this section you explore __tercen__ public projects. Doing so will copy the uploaded data and workflow. 
+In this section you explore __tercen__ public projects. Doing so will copy the uploaded data and workflow.
+
 
 * Click on `Explore`
 

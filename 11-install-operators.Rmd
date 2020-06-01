@@ -1,5 +1,6 @@
 # Install operators
 
+
 In this section you install operators for your team to use.
 
 * Click on `Teams` tab
@@ -27,3 +28,4 @@ A list of operators available on the tercen library appears.
 <center><img src="images/view_pca_operator_done.png"></center>
 
 You have now installed the `PCA` operator, the whole `crabs team` can now use it. The next section shows you how to upload data.
+

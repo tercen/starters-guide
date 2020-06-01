@@ -17,6 +17,7 @@ You should now see the sign in menu
 
 * Click on `Sign in` link
 
+
 You should see your personal page, similar to the image below.
 \ 
 

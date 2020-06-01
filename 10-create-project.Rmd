@@ -2,6 +2,7 @@
 
 In this section you create a project for your team.
 
+
 * Click on the `Teams` tab
 
 <center><img src="images/click_on_teams.png"></center>
@@ -16,6 +17,7 @@ You are now in the crabs team home page.
 <center><img src="images/click_on_add_project.png"></center>
 
 * Enter your desired project name in the `Name`, give it `crabs_project`
+
 * Provide a "Project description" in the `Description`
 <center><img src="images/give_name_to_project.png"></center>
 \
