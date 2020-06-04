@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 11 Install operators | Starter’s guide to Tercen</title>
+  <title>Chapter 21 Visualize the result | Starter’s guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.17.2 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 11 Install operators | Starter’s guide to Tercen" />
+  <meta property="og:title" content="Chapter 21 Visualize the result | Starter’s guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 11 Install operators | Starter’s guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 21 Visualize the result | Starter’s guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="create-a-project.html"/>
-<link rel="next" href="get-the-data.html"/>
+<link rel="prev" href="next-steps.html"/>
+<link rel="next" href="glossary.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -117,38 +117,52 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="install-operators" class="section level1">
-<h1><span class="header-section-number">Chapter 11</span> Install operators</h1>
-<p>In this section you install operators for your team to use.</p>
+<div id="visualize-the-result-1" class="section level1">
+<h1><span class="header-section-number">Chapter 21</span> Visualize the result</h1>
+<p>In this section you will visualize the output of your PCA computation. The visualization uses two principal components in a pair-wise plot.</p>
 <ul>
-<li><p>Click on <code>Teams</code> tab</p></li>
-<li><p>Click on <code>crabs team</code></p></li>
-<li><p>Click on <code>Library</code> tab</p></li>
+<li><p>Right click on the data step “PCA” and select <code>Add</code></p></li>
+<li><p>Select <code>Data step</code></p></li>
+</ul>
+<p>A new projection page opens.
+Looking at the factors on the left of your screen, you will notice there are additional factors in the factor list compared to last section, namely <code>ds0.PC1</code>, <code>ds0.PC2</code>, etc..</p>
+<center>
+<img src="images/Visualize_PCAadd.png">
+</center>
+<p>First we require to empty the project by removing factors. Note a tiny x appears when the mouse is placed over the factor zone.</p>
+<ul>
+<li><p>Hover over the zones</p></li>
+<li><p>Click on the <code>x</code> to clear the zone, repeat for every zone</p></li>
 </ul>
 <center>
-<img src="images/click_on_crabs_team_library.png">
+<img src="images/Visualize_cross.png">
 </center>
+<p><br />
+</p>
+<p>The result view should be an empty projection</p>
+<p>Now you create the required projection:</p>
 <ul>
-<li>Click on <code>+ Add operator</code></li>
+<li>Drag-n-drop the <code>ds0.PC2</code> factor to the <em>x-axis zone</em></li>
+<li>Drag-n-drop the <code>ds0.PC3</code> factor to the <em>y-axis zone</em></li>
+<li>Drag-n-drop the <code>sex</code> and <code>sp</code> factors to the <em>colors zone</em></li>
 </ul>
 <center>
-<img src="images/click_on_add_operator.png">
+<img src="images/Visualize_PCA23.png">
 </center>
-<p>A list of operators available on the tercen library appears.</p>
+<p><br />
+</p>
 <ul>
-<li>Select the <code>PCA</code> operator</li>
+<li><p>Click on <code>My new workflow</code>to return to the workflow</p></li>
+<li><p>Right click on the Data step and select <code>Rename</code></p></li>
+<li><p>Rename it to “Results”</p></li>
 </ul>
 <center>
-<img src="images/select_pca_operator.png">
+<img src="images/Visualize_results.png">
 </center>
 <ul>
-<li><p>Click <code>OK</code></p></li>
-<li><p>The installed operator shows in the <code>Library</code> tab</p></li>
+<li>Save workflow by clicking on the save icon beside the “My new workflow”</li>
 </ul>
-<center>
-<img src="images/view_pca_operator_done.png">
-</center>
-<p>You have now installed the <code>PCA</code> operator, the whole <code>crabs team</code> can now use it. The next section shows you how to upload data.</p>
+<p>You visualized the Crabs data to provide a clear representation, indicating differences between the sexes. Next we will visualize the data using a multi-group pairwise projection.</p>
 
 </div>
             </section>
@@ -156,8 +170,8 @@
           </div>
         </div>
       </div>
-<a href="create-a-project.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="get-the-data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="next-steps.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="glossary.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

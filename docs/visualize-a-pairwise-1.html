@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 11 Install operators | Starter’s guide to Tercen</title>
+  <title>Chapter 17 Visualize a pairwise | Starter’s guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.17.2 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 11 Install operators | Starter’s guide to Tercen" />
+  <meta property="og:title" content="Chapter 17 Visualize a pairwise | Starter’s guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 11 Install operators | Starter’s guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 17 Visualize a pairwise | Starter’s guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="create-a-project.html"/>
-<link rel="next" href="get-the-data.html"/>
+<link rel="prev" href="visualize-a-pairwise.html"/>
+<link rel="next" href="export-results.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -117,38 +117,68 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="install-operators" class="section level1">
-<h1><span class="header-section-number">Chapter 11</span> Install operators</h1>
-<p>In this section you install operators for your team to use.</p>
+<div id="visualize-a-pairwise-1" class="section level1">
+<h1><span class="header-section-number">Chapter 17</span> Visualize a pairwise</h1>
+<p>In this section you will create a multi-group pairwise visual.</p>
 <ul>
-<li><p>Click on <code>Teams</code> tab</p></li>
-<li><p>Click on <code>crabs team</code></p></li>
-<li><p>Click on <code>Library</code> tab</p></li>
+<li><p>Click on the <code>PCA</code> data step and select <code>Add</code></p></li>
+<li><p>Choose a <code>Data step</code></p></li>
+</ul>
+<p>This will create a second data step branch, opening a new projection.</p>
+<ul>
+<li>Clear the projection so that it will be completely emtpy</li>
 </ul>
 <center>
-<img src="images/click_on_crabs_team_library.png">
+<img src="images/Pairwise_empty.png">
 </center>
+<p>We will now create a pairwise projection of the <code>variable</code> factor.</p>
 <ul>
-<li>Click on <code>+ Add operator</code></li>
+<li>Drag-n-drop the <code>measurement</code> factor to the <em>y-axis zone</em></li>
+<li>Drag-n-drop the <code>variable</code> factor to the <em>column zone</em></li>
+<li>Drag-n-drop the <code>variable</code> factor to the <em>row zone</em></li>
+<li>Drag-n-drop the <code>index</code> factor to the <em>label zone</em></li>
 </ul>
 <center>
-<img src="images/click_on_add_operator.png">
+<img src="images/Pairwise_big.png">
 </center>
-<p>A list of operators available on the tercen library appears.</p>
+<p><br />
+</p>
+<p>Resize the projection by dragging the row lines tighter, similarly for the columns. Once resized the projection should look like the image below.</p>
+<center>
+<img src="images/Pairwise_small.png">
+</center>
+<p>This is <strong>a pairwise projection</strong> and it is a direct result of putting the same factor (i.e. <code>variable</code>) on the row and column zone. However this projection can be further developed into a <strong>multi-group pairwise</strong>.</p>
 <ul>
-<li>Select the <code>PCA</code> operator</li>
+<li>Drag-n-drop the <code>sp</code> factor to the <em>column zone</em></li>
+<li>Drag-n-drop the <code>sex</code> factor to the <em>color zone</em></li>
 </ul>
 <center>
-<img src="images/select_pca_operator.png">
+<img src="images/Pairwise_multi.png">
 </center>
+<p>You have now visualized a multi-group pairwise projection. This view is a powerful tool for data visualization.</p>
 <ul>
-<li><p>Click <code>OK</code></p></li>
-<li><p>The installed operator shows in the <code>Library</code> tab</p></li>
+<li>Go back to the workflow page by clicking on “My new workflow”</li>
 </ul>
+<p>Your workflow should look like the image below</p>
 <center>
-<img src="images/view_pca_operator_done.png">
+<img src="images/Pairwise_stack.png">
 </center>
-<p>You have now installed the <code>PCA</code> operator, the whole <code>crabs team</code> can now use it. The next section shows you how to upload data.</p>
+<p>Note the new data step box you added got pasted on top of the previous data step called “Results”.</p>
+<ul>
+<li><p>Drag the step called <code>Data step</code> to the right</p></li>
+<li><p>Right click on the new step called <code>Data step</code> and select <code>Rename</code></p></li>
+<li><p>Rename it to “Pairwise”</p></li>
+</ul>
+<p>It should now look like:</p>
+<center>
+<img src="images/Pairwise_done.png">
+</center>
+<p><br />
+</p>
+<ul>
+<li>Save the workflow</li>
+</ul>
+<p>You visualized the data using a multi-group pairwise projection. In the next section we will share your new results with your team.</p>
 
 </div>
             </section>
@@ -156,8 +186,8 @@
           </div>
         </div>
       </div>
-<a href="create-a-project.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="get-the-data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="visualize-a-pairwise.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="export-results.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
