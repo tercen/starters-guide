@@ -1,5 +1,5 @@
 # Visualize the result
-In this section we visualize the output of your PCA computation. The visualization uses two principal components in a pair-wise plot.
+In this section you visualize the output of your PCA computation. The visualization uses two principal components in a pair-wise plot.
 
 * Right click on the data step "PCA" and select `Add` 
 
@@ -8,7 +8,7 @@ In this section we visualize the output of your PCA computation. The visualizati
 A new projection page opens. 
 Looking at the factors on the left of your screen, you will notice there are additional factors in the factor list compared to last section, namely `ds0.PC1`, `ds0.PC2`, etc..
 
-<center><img src="images/Visualize_PCAadd.png"></center>
+<center><img src="images/View_projection_PCA_results.png"></center>
 
 First we require to empty the project by removing factors. Note a tiny x appears when the mouse is placed over the factor zone.
 
@@ -16,9 +16,9 @@ First we require to empty the project by removing factors. Note a tiny x appears
 
 * Click on the `x` to clear the zone, repeat for every zone  
 
-<center><img src="images/Visualize_cross.png"></center>\
+<center><img src="images/View_removal_cross.png"></center>\
 
-The result view should be an empty projection
+The result view should be an empty projection.
 
 Now you create the required projection:
 
@@ -26,16 +26,17 @@ Now you create the required projection:
 * Drag-n-drop the ``ds0.PC3`` factor to the _y-axis zone_
 * Drag-n-drop the ``sex`` and ``sp`` factors to the _colors zone_
 
-<center><img src="images/Visualize_PCA23.png"></center>\
+<center><img src="images/View_PCA_plot.png"></center>\
 
-* Click on `My new workflow`to return to the workflow
+* Click on `Crabs workflow` to return to the workflow
 
 * Right click on the Data step and select `Rename`
 
 * Rename it to "Results"
 
-<center><img src="images/Visualize_results.png"></center>
+<center><img src="images/Rename_PCA_results.png"></center>
 
-* Save workflow by clicking on the save icon beside the "My new workflow"  
+* Save workflow by clicking on the save icon beside the "Crabs workflow"  
 
-We visualized the crabs data to provide a clear representation, indicating differences between the sexes. In the next section we visualize the data using a multi-group pairwise projection.
+Congratulations on your first PCA analysis visualization. 
+Now you will use a multi-group pairwise projection on the Crabs data.

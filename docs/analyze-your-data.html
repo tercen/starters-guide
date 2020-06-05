@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 17 Visualize a pairwise | Starter’s guide to Tercen</title>
+  <title>Chapter 15 Analyze your data | Starter’s guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 17 Visualize a pairwise | Starter’s guide to Tercen" />
+  <meta property="og:title" content="Chapter 15 Analyze your data | Starter’s guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 17 Visualize a pairwise | Starter’s guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 15 Analyze your data | Starter’s guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="visualize-the-result.html"/>
-<link rel="next" href="export-results.html"/>
+<link rel="prev" href="define-a-view.html"/>
+<link rel="next" href="visualize-the-result.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -113,68 +113,61 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="visualize-a-pairwise" class="section level1">
-<h1><span class="header-section-number">Chapter 17</span> Visualize a pairwise</h1>
-<p>In this section you create a multi-group pairwise visual.</p>
-<ul>
-<li><p>Click on the <code>PCA</code> data step and select <code>Add</code></p></li>
-<li><p>Choose a <code>Data step</code></p></li>
-</ul>
-<p>Doing so creates a second data step branch, opening a new projection.</p>
-<ul>
-<li>Clear the projection so that it will be completely emtpy</li>
-</ul>
+<div id="analyze-your-data" class="section level1">
+<h1><span class="header-section-number">Chapter 15</span> Analyze your data</h1>
+<p>In this section you will perform a PCA on the Crabs data.</p>
+<p>The projection you created in the previous section can be used by an <strong>operator</strong>.
+This is due to the <em>What you see is what you compute</em> paradigm.</p>
+<p>Continue in the projection we created in the previous chapter.</p>
 <center>
-<img src="images/View_projection_pairwise_empty.png">
+<img src="images/View_projection_heatmap.png">
 </center>
 <ul>
-<li>Drag-n-drop the <code>measurement</code> factor to the <em>y-axis zone</em></li>
-<li>Drag-n-drop the <code>variable</code> factor to the <em>column zone</em></li>
-<li>Drag-n-drop the <code>variable</code> factor to the <em>row zone</em></li>
-<li>Drag-n-drop the <code>index</code> factor to the <em>label zone</em></li>
-</ul>
-<p>We have now created a pairwise projection of the <code>variable</code> factor.</p>
-<center>
-<img src="images/View_pairwise_default_size.png">
-</center>
-<p><br />
-</p>
-<p>Resize the projection by dragging the row lines tighter, similarly for the columns. Once resized the projection should look like the image below.</p>
-<center>
-<img src="images/View_pairwise_resized.png">
-</center>
-<p>This is <strong>a pairwise projection</strong> and it is a direct result of putting the same factor (i.e. <code>variable</code>) on the row and column zone. However this projection can be further developed into a <strong>multi-group pairwise</strong>.</p>
-<ul>
-<li>Drag-n-drop the <code>sp</code> factor to the <em>column zone</em></li>
-<li>Drag-n-drop the <code>sex</code> factor to the <em>color zone</em></li>
+<li><p>Click on the <code>+</code> on the right side of the <code>OPERATOR</code> tab</p></li>
+<li><p>Select the <code>PCA</code> operator</p></li>
 </ul>
 <center>
-<img src="images/View_multi_pairwise.png">
-</center>
-<p>We have now visualized a multi-group pairwise projection. This view is a powerful tool for data visualization.</p>
-<ul>
-<li>Go back to the workflow page by clicking on “Crabs workflow”</li>
-</ul>
-<p>The workflow should look like the image below</p>
-<center>
-<img src="images/View_workflow_data_stacked.png">
-</center>
-<p>Note the new data step box you added got pasted on top of the previous data step called “Results”.</p>
-<ul>
-<li><p>Drag the step called <code>Data step</code> to the right</p></li>
-<li><p>Right click on the new step called <code>Data step</code> and select <code>Rename</code></p></li>
-<li><p>Rename it to “Pairwise”</p></li>
-</ul>
-<p>It should now look like:</p>
-<center>
-<img src="images/View_workflow_pairwise_renamed.png">
+<img src="images/Click_on_plus_PCA.png">
 </center>
 <p><br />
 </p>
 <ul>
-<li>Save the workflow</li>
+<li>Click on <code>RUN</code> to activate the operator
+<center>
+<img src="images/Click_on_run.png">
+</center></li>
+<li>Click on the save icon besides the <code>Crabs workflow</code> to save the workflow</li>
 </ul>
-<p>You visualized the data using a multi-group pairwise projection. In the next section you share the results with your team.</p>
+<center>
+<img src="images/Click_on_save_icon.png">
+</center>
+<p><br />
+</p>
+<ul>
+<li>Go to the Crabs workflow page by clicking on it</li>
+</ul>
+The data step is now presented:
+<center>
+<img src="images/View_workflow_datastep.png">
+</center>
+<p><br />
+</p>
+<p>The operators in every step can also be activated from the workflow page by right clicking on the data step and selecting <code>Run</code>
+The the data step status is indicated by the color on the top right corner, red means not activated and green means activated.</p>
+<ul>
+<li><p>Right click on the data step and select <code>Rename</code></p></li>
+<li><p>Always name the steps descriptive to keep a clear workflow.</p></li>
+<li><p>Rename to “PCA”</p></li>
+</ul>
+<center>
+<img src="images/Rename_datastep_PCA.png">
+</center>
+<p>The steps in the workflow can be dragged to your liking. Try to keep your workflow easily interpretable.</p>
+<ul>
+<li><p>Drag the “PCA” step around</p></li>
+<li><p>Save the entire workflow by clicking on the save icon</p></li>
+</ul>
+<p>You ran a PCA on the crabs data. The next sections will cover viewing the results of the PCA.</p>
 
 </div>
             </section>
@@ -182,8 +175,8 @@
           </div>
         </div>
       </div>
-<a href="visualize-the-result.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="export-results.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="define-a-view.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="visualize-the-result.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

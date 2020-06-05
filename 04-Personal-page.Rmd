@@ -1,14 +1,10 @@
 # View personal page
 
-In this section we give an overview of your personal page.
+In this section you view your personal page.
 
 Once logged in you enter your personal page, similar to the image below.
 
-
-<center><img src="images/view_personal_page.png"></center>
-
-
-<center><img src="images/view_personal_page.png"></center>
+<center><img src="images/View_personal_page.png"></center>
 
 On the personal page you see the tabs:\
   * `Projects`\

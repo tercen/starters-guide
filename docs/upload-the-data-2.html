@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 13 Get the data | Starter’s guide to Tercen</title>
+  <title>Chapter 31 Upload the data | Starter’s guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 13 Get the data | Starter’s guide to Tercen" />
+  <meta property="og:title" content="Chapter 31 Upload the data | Starter’s guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 13 Get the data | Starter’s guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 31 Upload the data | Starter’s guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="create-a-workflow.html"/>
-<link rel="next" href="define-a-view.html"/>
+<link rel="prev" href="glossary-1.html"/>
+
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -123,8 +123,113 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="get-the-data" class="section level1">
-<h1><span class="header-section-number">Chapter 13</span> Get the data</h1>
+<div id="upload-the-data-2" class="section level1">
+<h1><span class="header-section-number">Chapter 31</span> Upload the data</h1>
+<p>In this section you upload a dataset to your teams project.</p>
+<p><strong>tercen</strong> accepts data in either <em>.tsv</em> or <em>csv</em>. The example data set <code>crabs_longformat.csv</code> is in a <em>.csv</em> format and is in a <em>long format</em>. On the bottom of this section we will show the differences between a <em>long format</em> and a _wide format. Also we provide you with the example dataset’s download location, which we advice you to use for this guide.</p>
+<p>Navigate to your projects homepage.</p>
+<ul>
+<li>Click on <code>New data set</code>
+<center>
+<img src="images/Data_adddata.png">
+</center></li>
+</ul>
+<p>A dialog window opens which allows you to select the data file’s location.</p>
+<center>
+<img src="images/Data_newdata.png">
+</center>
+<p><br />
+* Enter a name for the data you want to upload
+* Click on <code>Choose File</code> and select your file’s location (i.e. “C:\data\papercrabs_longformat.csv”).</p>
+<p>Leave the defaults.</p>
+<ul>
+<li>Click <code>Next</code></li>
+</ul>
+You will see which column headers were detected and the detected data type.
+<center>
+<img src="images/Data_table.png">
+</center>
+<ul>
+<li>Click <code>Next</code></li>
+</ul>
+<strong>tercen</strong> will need your table to be in a <em>long format</em>.
+Now you will have the option to transform your uploaded data table from a <em>wide format</em> into a <em>long format</em> if needed.
+<center>
+<img src="images/Data_widetolong.png">
+</center>
+<p><br />
+If needed:</p>
+<ul>
+<li>Select the columns which have measurements</li>
+<li>Click <code>Ok</code></li>
+</ul>
+You will now see the new data set in the projects homepage.
+<center>
+<img src="images/Data_done.png">
+</center>
+The difference between a <em>wide format</em> and a <em>long format</em>:<br />
+In a <em>long format</em> only <strong>one</strong> measurement is described in a single row, which makes the table very long, hence the name.
+<center>
+<img src="images/Data_long.png">
+</center>
+<br />
+In a <em>wide format</em> <strong>multiple</strong> measurements are described in a single row, for example genome data often contains the different samples in the columns.
+<center>
+<img src="images/Data_wide.png">
+</center>
+<p><br />
+</p>
+<p>You have successfully uploaded data into the <strong>Tercen cloud</strong>. In the next section we create a workflow for the analysis of the data.</p>
+<hr />
+<p>The Example dataset:<br />
+The data set for this guide is available online as a git hub repository.</p>
+<ul>
+<li>Go the file, by clicking on the following git hub address:</li>
+</ul>
+<p>(<a href="https://raw.githubusercontent.com/tercen/starters-guide2/master/data/crabs_longformat.csv" class="uri">https://raw.githubusercontent.com/tercen/starters-guide2/master/data/crabs_longformat.csv</a>)</p>
+<ul>
+<li>Once it opens, right click and select <code>Save as...</code></li>
+</ul>
+<p>Save your data on your desktop. Use the default name (it should be <code>crabs_longformat.csv</code>).</p>
+<p><strong>Crab data description:</strong></p>
+<p>The data set is called “crabs” and it is in a <em>long format</em>. It has a total of 1000 measurements of crab physical traits. It is composed of four groups (two sexes and two species) of 50 measurements for five traits variables, <code>FL</code> (frontal lobe size in mm), <code>RW</code> (rear width mm), <code>CL</code> (carapace length mm), <code>CW</code> (carapace width mm) and <code>BD</code> (body depth mm). In summary it is:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Factor</th>
+<th>values</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>sp</code></td>
+<td>species, <code>B</code> or <code>O</code> for <span style="color:blue">Blue</span> or <span style="color:orange">Orange</span>.</td>
+</tr>
+<tr class="even">
+<td><code>sex</code></td>
+<td><code>M</code> or <code>F</code></td>
+</tr>
+<tr class="odd">
+<td><code>index</code></td>
+<td>index 1 to 50 within each of the four groups, 2 sex and 2 species</td>
+</tr>
+<tr class="even">
+<td><code>variable</code></td>
+<td>one of five variables: <code>FL</code>, <code>RW</code>, <code>CL</code>, <code>CW</code> and <code>BD</code></td>
+</tr>
+<tr class="odd">
+<td><code>measurement</code></td>
+<td>the value of one of the five <code>variable</code></td>
+</tr>
+<tr class="even">
+<td><code>observation</code></td>
+<td>index 1 to 200 observations for each variable</td>
+</tr>
+</tbody>
+</table>
+<center>
+<img src="images/crabs_data.png" />
+</center>
 
 </div>
             </section>
@@ -132,8 +237,8 @@
           </div>
         </div>
       </div>
-<a href="create-a-workflow.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="define-a-view.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="glossary-1.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

@@ -1,13 +1,13 @@
 # Upload the data
 In this section we upload the crabs dataset to your teams project.
 
-__tercen__ accepts data in either _.tsv_ or _csv_. The example data set ``crabs_longformat.csv`` is in a _.csv_ format and is in a _long format_. On the bottom of this section we will show the differences between a _long format_ and a _wide format. Also we provide you with the example dataset's download location, which we advice you to use for this guide.
+__Tercen__ accepts data in either _.tsv_ or _csv_. The example data set ``crabs_longformat.csv`` is in a _.csv_ format and is in a _long format_. On the bottom of this section we will show the differences between a _long format_ and a _wide format. Also we provide you with the example dataset's download location, which you will use for this guide.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 The Example dataset:\
 The data set for this guide is available online as a git hub repository. 
 
-* Go the file, by clicking on the following git hub address:
+* Go to the file, by clicking on the following git hub address:
 
 (https://raw.githubusercontent.com/tercen/starters-guide2/master/data/crabs_longformat.csv)
 
@@ -18,7 +18,7 @@ Save your data on your desktop. Use the default name (it should be `crabs_longfo
 
 __Crab data description:__
 
-The data set is called "crabs" and it is in a _long format_. It has a total of 1000 measurements of crab physical traits. It is composed of four groups (two sexes and two species) of 50 measurements for five traits variables, `FL` (frontal lobe size in mm), `RW` (rear width mm), `CL` (carapace length mm), `CW` (carapace width mm) and `BD` (body depth mm). In summary it is:  
+The data set is called "Crabs" and it is in a _long format_. It has a total of 1000 measurements of crab physical traits. It is composed of four groups (two sexes and two species) of 50 measurements for five traits variables, `FL` (frontal lobe size in mm), `RW` (rear width mm), `CL` (carapace length mm), `CW` (carapace width mm) and `BD` (body depth mm). In summary it is:  
 
 Factor|values
 ------|---
@@ -35,13 +35,13 @@ Factor|values
 Navigate to your projects homepage. 
 
 * Click on `New data set`
-<center><img src="images/Data_adddata.png"></center>
+<center><img src="images/Click_on_new_dataset.png"></center>
 
 A dialog window opens which allows you to select the data file's location.
 
-<center><img src="images/Data_newdata.png"></center>
+<center><img src="images/View_add_location_data.png"></center>
 \
-* Enter a name for the data you want to upload
+* Enter `Crab data` as the name for the data
 * Click on `Choose File` and select your file's location (i.e. "C:\\data\\papercrabs_longformat.csv").
 
 Leave the defaults.
@@ -53,17 +53,10 @@ You will see which column headers were detected and the detected data type.
 
 * Click `Next`
 
-__tercen__ will need your table to be in a _long format_.
-Now you will have the option to transform your uploaded data table from a _wide format_ into a _long format_ if needed.
-<center><img src="images/Data_widetolong.png"></center>
-\
-If needed:
-
-* Select the columns which have measurements
-* Click `Ok`
+* Click `OK`
 
 
-You will now see the new data set in the projects homepage.
+You will see the new data set in the projects homepage.
 <center><img src="images/Data_done.png"></center>
 
 
@@ -74,4 +67,4 @@ In a _wide format_ __multiple__ measurements are described in a single row, for 
 <center><img src="images/Data_wide.png"></center>\
 
 
-You have successfully uploaded data into the __Tercen cloud__. In the next section we create a workflow for the analysis of the data.
+You have successfully uploaded data on to __Tercen__. In the next section you create a workflow for the analysis of the data.

@@ -1,17 +1,19 @@
 # Explore projects
 
-In this section you explore __tercen__ public projects. Doing so will copy the uploaded data and workflow.
+In this section you explore __Tercen__ public projects. Doing so copies the uploaded data and workflow.
 
 
 * Click on `Explore`
 
-<center><img src="images/explore_public_projects.png"></center>
+<center><img src="images/Click_on_explore.png"></center>
 
 
-* Scroll down to `tercen/crabs_tutorial`
-* Click on `tercen/crabs_tutorial`
+* Scroll down to `Tercen/crabs_tutorial`
+* Click on `Tercen/crabs_tutorial`
 
-You can now see the crabs tutorial project and its files.
+<center><img src="images/Click_on_crabs_tutorial.png"></center>
+
+You now see the crabs tutorial project and its files.
 
 
-In the next section we learn how to  clone a public project.
+In the next section you learn how to  clone a public project.

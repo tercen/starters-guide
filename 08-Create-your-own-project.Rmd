@@ -1,10 +1,10 @@
 # Create your own project
 
-Congratulations, you've explored, cloned a project and dipped into a __tercen workflow__.
+Congratulations, you've explored, cloned a project and dipped into a __Tercen workflow__.
 
 Now we show you how to create them.
 
-<center><img src="images/create_project_crab.png"></center>
+<center><img src="images/Create_project_crab.png"></center>
 
 The following steps are covered in the next few chapters:
 

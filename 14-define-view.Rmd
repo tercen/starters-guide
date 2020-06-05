@@ -4,21 +4,21 @@ In this section you visualize your data using __projections__.
 
 * Right click on the `Crab data` __step__ and select `Add`
 
-<center><img src="images/right_click_on_crabs_data.png"></center>
+<center><img src="images/Rightclick_on_crabs_data.png"></center>
 
 * Click on `Data step`
 
-<center><img src="images/click_on_data_step.png"></center>\
+<center><img src="images/Click_on_data_step.png"></center>\
 
 A __projection__ page opens.
 
 * Click on + left of the crab data to show a the available factors
 
-<center><img src="images/click_on_factors_crab_data.png"></center>
+<center><img src="images/Click_on_factors_crab_data.png"></center>
   
 The __projection__ is composed of different _zones_. The _zones_ descriptions are described in the image below:
 
-<center><img src="images/view_zones.png"></center>\
+<center><img src="images/View_zones_description.png"></center>\
 
 You can create any __projection__ of the data by dragging-n-dropping a _factor_ to one of the _zones_. There are four _zones_ to create a table and three on the left to provide details.
 
@@ -43,7 +43,7 @@ On the left are:
 
 You now have the following image:
 
-<center><img src="images/view_projection_default_size.png"></center>
+<center><img src="images/View_projection_default_size.png"></center>
 
 Notice, the `variable` __factor__ is the row and the `observations` are the columns.
 
@@ -52,16 +52,18 @@ We re-size the image to make all the data viewable
 * Place the mouse on the row lines and drag them closer.
 * Place the mouse on the column lines and drag them closer.
 
+<center><img src="images/View_resizing_arrow_changes.png"></center>\
+
 The re-sized image looks like:
 
-<center><img src="images/view_projection_resized.png"></center>\
+<center><img src="images/View_projection_resized.png"></center>\
 
 * Drag-n-drop the "Measurement" __factor__ to _colors zone_
 * Select `heatmap` in the drop down menu where it currently says `point`. 
 
 The projection window now look like:
 
-<center><img src="images/view_heatmap_project.png"></center>
+<center><img src="images/View_heatmap_project.png"></center>
 
 * Click on the "save icon" besides the \\crabs workflow, the workflow is now saved.
 
