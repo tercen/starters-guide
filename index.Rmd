@@ -7,7 +7,7 @@ output: bookdown::gitbook
 bibliography: 
 biblio-style: apalike
 link-citations: yes
-github-repo: tercen/starters-guide
+github-repo:  
 description: "This is a starter's guide to Tercen"
 ---
 
@@ -31,7 +31,6 @@ __Tercen__  promotes collaboration for data analysis. Not everyone can code or e
 __Tercen__ allows non programmers (e.g. biologists) to explore their data and allows programmers (e.g. bioinformaticians) to upload their code (or web-apps) for the biologist to use. By offering these services we believe biologists get empowered and can claim back control of their data. The bioinformatician gets liberated from the operational details and day to day analysis demands from the biologist. This is summed up with the phrase:
 
 > Tercen __empowers__ the biologist and __liberates__ the bioinformatician.
-
 
 <center><img src="images/stairs.png"></center>
 

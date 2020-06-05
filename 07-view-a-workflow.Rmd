@@ -1,8 +1,10 @@
 # View a workflow
 
-In this section we walk you through the crabs project you just cloned in the previous section.
 
-You start off in your personal page, and you navigate to the crabs project.
+In this section we walk you through the crabs project you just cloned in the prevous section.
+
+You start off in your personal page, and you navigate to project.
+
 
 * Click on `Teams`
 <center><img src="images/click_on_teams.png"></center>
@@ -20,15 +22,14 @@ You are now on the crabs project page and it looks like:
 <center><img src="images/view_crabs_project_page.png"></center>
 \
 
-It contains the folllowing:
+it contains the folllowing:
 
 * Project tab
-  * Data
-  * Workflow
+    * Data
+    * Workflow
 * Discussion tab
 * Activity tab
 
-We will now enter the cloned workflow.\
 * Click on `Tutorial workflow`
 <center><img src="images/click_on_crabs_workflow.png"></center>
 \

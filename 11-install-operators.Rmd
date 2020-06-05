@@ -1,26 +1,31 @@
 # Install operators
 
-In this section we install operators in __tercen__ for your team to use.
 
-* Go to the team homepage you want to install __operators__ for
+In this section you install operators for your team to use.
 
-* Head over to the `Library` tab
-<center><img src="images/Operator_libraries.png"></center>
+* Click on `Teams` tab
 
-* Click on `Add operator`
-<center><img src="images/Operator_addoperator.png"></center>
+* Click on  `crabs team`
 
-A list of operators available on the tercen library will appear.
+* Click on `Library` tab
 
-* Pick the operator of choice
+<center><img src="images/click_on_crabs_team_library.png"></center>
 
-<center><img src="images/Operator_chooseoperator.png"></center>
+* Click on `+ Add operator`
+
+<center><img src="images/click_on_add_operator.png"></center>
+
+A list of operators available on the tercen library appears.
+
+* Select the `PCA` operator
+
+<center><img src="images/select_pca_operator.png"></center>
 
 * Click `OK`
 
-* The installed operater will now show in the `Library` tab
-* Repeat this process for all other needed operators
+* The installed operator shows in the `Library` tab
 
-<center><img src="images/Operator_done.png"></center>
+<center><img src="images/view_pca_operator_done.png"></center>
 
-You have now installed an operator that can be used by this team. In the next section we will upload the crabs dataset to __tercen__
+You have now installed the `PCA` operator, the whole `crabs team` can now use it. The next section shows you how to upload data.
+

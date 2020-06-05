@@ -9,8 +9,9 @@ Once logged in you see your __personal page__, similar to the screenshot below.
 * Click on `Teams`
 
 <center><img src="images/click_on_teams_tab.png"></center>
-\
-* Click on `New team`
+
+* Click on `+ New team`
+
 <center><img src="images/click_on_add_team.png"></center>
 
 * Enter your desired team name in `Name` call it `crab team`
@@ -20,4 +21,6 @@ You have now created a team and it is in your team list.
 <center><img src="images/view_teams_with_crab_team.png"></center>
 
 
-In the next section you create a project within the team.
+
+The next section you create a project within the team.
+
