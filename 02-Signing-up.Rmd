@@ -3,7 +3,7 @@
 In this section you create an account for __Tercen__.
 We highly recommend using __google chrome__ while using __Tercen__.
 
-* Go to https://Tercen.com
+* Go to https://tercen.com
 
 <center><img src="images/signup_empty.png"></center>
 

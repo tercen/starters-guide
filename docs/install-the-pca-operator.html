@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 15 Define a Heatmap view | Starter’s guide to Tercen</title>
+  <title>Chapter 11 Install the PCA operator | Starter’s guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.17.2 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 15 Define a Heatmap view | Starter’s guide to Tercen" />
+  <meta property="og:title" content="Chapter 11 Install the PCA operator | Starter’s guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 15 Define a Heatmap view | Starter’s guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 11 Install the PCA operator | Starter’s guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="create-the-crabs-workflow.html"/>
-<link rel="next" href="running-a-pca.html"/>
+<link rel="prev" href="create-the-crabs-project.html"/>
+<link rel="next" href="get-the-crabs-data.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -115,81 +115,38 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="define-a-heatmap-view" class="section level1">
-<h1><span class="header-section-number">Chapter 15</span> Define a Heatmap view</h1>
-<p>In this section you visualize your data using <strong>projections</strong>.</p>
+<div id="install-the-pca-operator" class="section level1">
+<h1><span class="header-section-number">Chapter 11</span> Install the PCA operator</h1>
+<p>In this section you install operators for your team to use.</p>
 <ul>
-<li>Right click on the <code>Crab data</code> <strong>step</strong> and select <code>Add</code></li>
+<li><p>Click on <code>Teams</code> tab</p></li>
+<li><p>Click on <code>Crabs team</code></p></li>
+<li><p>Click on <code>Library</code> tab</p></li>
 </ul>
 <center>
-<img src="images/right_click_on_crabs_data.png">
+<img src="images/click_on_crabs_team_library.png">
 </center>
 <ul>
-<li>Click on <code>Data step</code></li>
+<li>Click on <code>+ Add operator</code></li>
 </ul>
 <center>
-<img src="images/click_on_data_step.png">
+<img src="images/click_on_add_operator.png">
 </center>
-<p><br />
-</p>
-<p>A <strong>projection</strong> page opens.</p>
+<p>A list of operators available on the Tercen library appears.</p>
 <ul>
-<li>Click on + left of the crab data to show a the available factors</li>
+<li>Select the <code>PCA</code> operator</li>
 </ul>
 <center>
-<img src="images/click_on_factors_crab_data.png">
+<img src="images/select_pca_operator.png">
 </center>
-<p>The <strong>projection</strong> is composed of different <em>zones</em>. The <em>zones</em> descriptions are described in the image below:</p>
-<center>
-<img src="images/view_zones.png">
-</center>
-<p><br />
-</p>
-<p>You can create any <strong>projection</strong> of the data by dragging-n-dropping a <em>factor</em> to one of the <em>zones</em>. There are four <em>zones</em> to create a table and three on the left to provide details.</p>
-<p>On the right are:</p>
 <ul>
-<li><em>y-axis zone</em></li>
-<li><em>x-axis zone</em></li>
-<li><em>column zone</em></li>
-<li><em>row zone</em></li>
+<li><p>Click <code>OK</code></p></li>
+<li><p>The installed operator shows in the <code>Library</code> tab</p></li>
 </ul>
-<p>On the left are:</p>
-<ul>
-<li><p><em>label zone</em></p></li>
-<li><p><em>colors zone</em></p></li>
-<li><p><em>error bar zone</em><br />
-<br />
-</p></li>
-<li><p>Drag-n-drop the <code>measurement</code> factor to the <em>y-axis zone</em></p></li>
-<li><p>Drag-n-drop the <code>variable</code> factor to the <em>row zone</em></p></li>
-<li><p>Drag-n-drop the <code>observation</code> factor to the <em>column zone</em></p></li>
-</ul>
-<p>You now have the following image:</p>
 <center>
-<img src="images/view_projection_default_size.png">
+<img src="images/view_pca_operator_done.png">
 </center>
-<p>Notice, the <code>variable</code> <strong>factor</strong> is the row and the <code>observations</code> are the columns.</p>
-<p>We re-size the image to make all the data viewable</p>
-<ul>
-<li>Place the mouse on the row lines and drag them closer.</li>
-<li>Place the mouse on the column lines and drag them closer.</li>
-</ul>
-<p>The re-sized image looks like:</p>
-<center>
-<img src="images/view_projection_resized.png">
-</center>
-<p><br />
-</p>
-<ul>
-<li>Drag-n-drop the “Measurement” <strong>factor</strong> to <em>colors zone</em></li>
-<li>Select <code>heatmap</code> in the drop down menu where it currently says <code>point</code>.</li>
-</ul>
-<p>The projection window now look like:</p>
-<center>
-<img src="images/view_heatmap_project.png">
-</center>
-<p>Congratulations on your first heatmap visual.</p>
-<p>In the next section we analyze the data by performing a <strong>PCA</strong>.</p>
+<p>You have now installed the <code>PCA</code> operator, the whole <code>crabs team</code> can now use it. The next section shows you how to upload data.</p>
 
 </div>
             </section>
@@ -197,8 +154,8 @@
           </div>
         </div>
       </div>
-<a href="create-the-crabs-workflow.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="running-a-pca.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="create-the-crabs-project.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="get-the-crabs-data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
