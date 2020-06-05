@@ -1,5 +1,6 @@
-# Export results
-In this section you will export the results to a downloadable file. 
+# Export PCA results
+
+In this section you export the results to a downloadable file. 
 
 Head over to the "My new workflow" workflow.
 

@@ -1,4 +1,4 @@
-# Create a workflow
+# Create the Crabs workflow
 
 In this section you create a workflow in your project area.
 

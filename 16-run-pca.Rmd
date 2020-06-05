@@ -1,10 +1,12 @@
-# Compute your data
-In this section we perform a computation by selecting a previously installed operator and running it on the data.
+# Running a PCA
 
-The projection you created in the previous section can also be used by a computation (i.e. __operator__).
+In this section we perform a PCA on the data.
+
+The projection you created in the previous section also be used by a computation (i.e. __operator__).
+
 This is due to the _What you see is what you compute_ paradigm. 
 
-First we will select the operator of choice.
+First we add the PCA operator.
 
 Continue in the projection we created in the previous chapter.
 

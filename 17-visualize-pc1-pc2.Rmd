@@ -1,4 +1,5 @@
-# Visualize the result
+# Visualize PC1 vs. PC2
+
 In this section we visualize the output of your PCA computation. The visualization uses two principal components in a pair-wise plot.
 
 * Right click on the data step "PCA" and select `Add` 

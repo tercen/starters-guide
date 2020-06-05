@@ -1,0 +1,3 @@
+# Save the Crabs workflow
+
+Click on the "save icon" besides the \\crabs workflow, the workflow is now saved.

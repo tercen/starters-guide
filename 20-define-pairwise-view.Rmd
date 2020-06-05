@@ -1,17 +1,18 @@
 # Visualize a pairwise
-In this section you will create a multi-group pairwise visual.
+
+In this section we create a multi-group pairwise visual.
 
 * Click on the `PCA` data step and select `Add` 
 
 * Choose a `Data step`
 
-This will create a second data step branch, opening a new projection.
+Doing so creates a second data step branch, opening a new projection.
 
-* Clear the projection so that it will be completely emtpy
+* Clear the projection so that it will be completely empty
 
 <center><img src="images/Pairwise_empty.png"></center>
 
-We will now create a pairwise projection of the ``variable`` factor.
+We have now created a pairwise projection of the ``variable`` factor.
 
 * Drag-n-drop the ``measurement`` factor to the _y-axis zone_
 * Drag-n-drop the ``variable`` factor to the _column zone_
@@ -31,11 +32,11 @@ This is **a pairwise projection** and it is a direct result of putting the same 
 
 <center><img src="images/Pairwise_multi.png"></center>
 
-You have now visualized a multi-group pairwise projection. This view is a powerful tool for data visualization.
+We have now visualized a multi-group pairwise projection. This view is a powerful tool for data visualization.
 
 * Go back to the workflow page by clicking on "My new workflow"
 
-Your workflow should look like the image below
+The workflow should look like the image below
 
 <center><img src="images/Pairwise_stack.png"></center>
 
@@ -53,5 +54,5 @@ It should now look like:
 
 * Save the workflow
 
-You visualized the data using a multi-group pairwise projection. In the next section we will share your new results with your team.
+We visualized the data using a multi-group pairwise projection. In the next section we're sharing the new results with our team.
 

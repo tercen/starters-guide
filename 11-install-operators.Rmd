@@ -1,11 +1,10 @@
-# Install operators
-
+# Install PCA operator
 
 In this section you install operators for your team to use.
 
 * Click on `Teams` tab
 
-* Click on  `crabs team`
+* Click on  `Crabs team`
 
 * Click on `Library` tab
 

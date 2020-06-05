@@ -1,4 +1,4 @@
-# View a workflow
+# View the Crabs workflow
 
 
 In this section we walk you through the crabs project you just cloned in the prevous section.

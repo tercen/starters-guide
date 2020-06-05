@@ -1,4 +1,4 @@
-# Create a team
+# Create the Crabs team
 
 In this section you create a new team in the __tercen__.
 

@@ -1,4 +1,4 @@
-# Cloning a project
+# Cloning the Crab project
 
 In this section we clone (i.e. make a copy) the crabs project from __tercen public projects__ and place it in your personal team.
 

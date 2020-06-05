@@ -1,4 +1,4 @@
-# Create a project
+# Create the Crabs project
 
 In this section you create a project for your team.
 

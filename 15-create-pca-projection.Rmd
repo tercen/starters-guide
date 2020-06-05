@@ -1,4 +1,4 @@
-# Define a view
+# Define a Heatmap view
 
 In this section you visualize your data using __projections__.
 
@@ -63,8 +63,8 @@ The projection window now look like:
 
 <center><img src="images/view_heatmap_project.png"></center>
 
-* Click on the "save icon" besides the \\crabs workflow, the workflow is now saved.
 
-Congratulations on your first heatmap project. 
+
+Congratulations on your first heatmap visual. 
 
 In the next section we analyze the data by performing a __PCA__.
