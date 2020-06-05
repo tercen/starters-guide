@@ -1,8 +1,13 @@
+<<<<<<< HEAD:22-export-pca-result.Rmd
 # Export PCA results
 
 In this section you export the results to a downloadable file. 
+=======
+# Export results
+In this section you export the results to a downloadable file for your team. 
+>>>>>>> 51f05425df5e488a0435ce0890df3d652a6b95ff:18-export-result.Rmd
 
-Head over to the "My new workflow" workflow.
+Head over to the Crabs workflow.
 
 * Right click on the `PCA` step and choose `Add`
 
@@ -10,18 +15,16 @@ Head over to the "My new workflow" workflow.
 
 * Right click on the `Export` step and select `Run`
 
+<center><img src="images/Click_on_export_run.png"></center>\
+
 It has now been activated, showing a green status, exporting the data to "New Project" 
 
-![](images/workflow_with_export_run.png)
+* Go to the "Crabs project" page by clicking it on the top bar
 
-* Go to the "New Project" page by clicking it on the top bar
-
-![](images/my_project_before_refresh.png)
+<center><img src="images/View_crabs_export_projectpage.png"></center>\
 
 * Refresh the browser page either using `F5` or the refresh icon on the browser
 
-![](images/my_project_after_refresh.png)
+The new `crabs workflow-Export` entry will appear.
 
-You notice the new `crabs workflow-Export` entry, this is exported results
-
-You can download the data by clicking the download icon beside it. It is also available as a Tercen **Table** (i.e. data set) and can be used by other workflows.
+You can download the data by clicking the download icon beside it. It is also available as a __Tercen__ **Table** (i.e. data set) and can be used by other workflows.

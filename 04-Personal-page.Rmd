@@ -1,14 +1,14 @@
 # View personal home page
 
+<<<<<<< HEAD
 In this section we give an overview of your personal home page.
+=======
+In this section you view your personal page.
+>>>>>>> 51f05425df5e488a0435ce0890df3d652a6b95ff
 
 Once logged in you enter your personal home page, similar to the image below.
 
-
-<center><img src="images/view_personal_page.png"></center>
-
-
-<center><img src="images/view_personal_page.png"></center>
+<center><img src="images/View_personal_page.png"></center>
 
 On the personal home page you see the following tabs:\
 

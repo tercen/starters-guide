@@ -1,26 +1,28 @@
 # Create the Crabs team
 
+<<<<<<< HEAD
 In this section you create a new team in the __Tercen__.
+=======
+In this section you create a new team in __Tercen__.
+>>>>>>> 51f05425df5e488a0435ce0890df3d652a6b95ff
 
-Once logged in you see your __personal page__, similar to the screenshot below.
+Once logged in you see your __personal page__, similar to the image below.
 
-<center><img src="images/view_personal_page.png"></center>
+<center><img src="images/View_personal_page.png"></center>
 
 * Click on `Teams`
 
-<center><img src="images/click_on_teams_tab.png"></center>
+<center><img src="images/Click_on_teams_tab.png"></center>
 
 * Click on `+ New team`
 
-<center><img src="images/click_on_add_team.png"></center>
+<center><img src="images/Click_on_add_team.png"></center>
 
-* Enter your desired team name in `Name` call it `crab team`
+* Enter `Crabs team` in the `Name` tab
+* Click `OK`
 
-You have now created a team and it is in your team list.
+You have now created a team, it is located in your teams list.
 
-<center><img src="images/view_teams_with_crab_team.png"></center>
-
-
+<center><img src="images/View_new_crab_team.png"></center>
 
 The next section you create a project within the team.
-
