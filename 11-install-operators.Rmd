@@ -14,7 +14,7 @@ In this section you install operators for your team to use.
 
 <center><img src="images/click_on_add_operator.png"></center>
 
-A list of operators available on the tercen library appears.
+A list of operators available on the Tercen library appears.
 
 * Select the `PCA` operator
 

@@ -63,9 +63,9 @@ On the left side of the __projection__ you can see the results of the __PCA__ ar
 <center><img src="images/view_PCA_results.png"></center>
 \
 We visualized the data using PC1 and PC2, while coloring the species and sex of the crabs.\
-Thanks to the drag and drop way of working in __tercen__ you can quickly and intuitively visualize the results of your data. 
+Thanks to the drag and drop way of working in __Tercen__ you can quickly and intuitively visualize the results of your data. 
 
-Your data can be visualized in many ways using __tercen__ and every visualization can provide different insights. Next we will visualize the crabs_longformat using a pair-wise plot. 
+Your data can be visualized in many ways using __Tercen__ and every visualization can provide different insights. Next we will visualize the crabs_longformat using a pair-wise plot. 
 
 * Click on `Tutorial workflow` to go back to the workflow page
 * Click on `Pair-wise plot`
@@ -77,6 +77,6 @@ You will see the __projection__ of the __data step__, as seen in the image below
 In this __projection__ you can see that we visualized the differences between male and female, by coloring by sex.
 In the columns you can appreciate that you can add multiple levels, differentiating between the species and the variables.
 
-You now have an idea of the possibilities using __tercen__. For more information about how to upload and work with your own data, continue reading the getting started guide. 
+You now have an idea of the possibilities using __Tercen__. For more information about how to upload and work with your own data, continue reading the getting started guide. 
 
 

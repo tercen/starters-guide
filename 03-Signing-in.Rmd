@@ -1,10 +1,10 @@
 # Sign in
 
-In this section you logging into __tercen__.
+In this section you logging into __Tercen__.
 
-* Click on the verification email for your tercen account\
+* Click on the verification email for your Tercen account\
 Or
-* Go to https://tercen.com and click on  `Sign in`
+* Go to https://Tercen.com and click on  `Sign in`
 
 \ 
 You should now see the sign in menu
@@ -23,5 +23,5 @@ You should see your personal page, similar to the image below.
 
 <img src="images/view_personal_page.png">
 
-You are now signed in to __tercen__.
+You are now signed in to __Tercen__.
 In the next section we will take a look at your personal page.

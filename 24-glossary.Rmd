@@ -6,9 +6,9 @@ __Observation__: An observation is the factor name given to a value (measurement
 
 __Variable__: A variable is a characteristic of a unit being observed that may assume more than one of a set of values to which a numerical measure or a category from a classification can be assigned (e.g. income, age, weight, etc., and “occupation”, “industry”, “disease”, etc.)
 
-__Table__: A table is the fundamental data structure for __tercen__. A project and workflow is composed of many tables.
+__Table__: A table is the fundamental data structure for __Tercen__. A project and workflow is composed of many tables.
 
-__Cross-tab window__: The view in __tercen__ used to perform a __projections__
+__Cross-tab window__: The view in __Tercen__ used to perform a __projections__
 
 __Projection__:  A data __projection__ is used to query the data. It is performed in the __Cross-tab window__. The projection results a selection of  `y-axis`, `row`, `col`, `x-axis`, `color`, `label`. 
 

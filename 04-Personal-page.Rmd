@@ -1,16 +1,17 @@
 # View personal home page
 
-In this section we give an overview of your personal page.
+In this section we give an overview of your personal home page.
 
-Once logged in you enter your personal page, similar to the image below.
-
-
-<center><img src="images/view_personal_page.png"></center>
+Once logged in you enter your personal home page, similar to the image below.
 
 
 <center><img src="images/view_personal_page.png"></center>
 
-On the personal page you see the tabs:\
+
+<center><img src="images/view_personal_page.png"></center>
+
+On the personal home page you see the following tabs:\
+
   * `Projects`\
   * `Teams`\
   * `Library`\
