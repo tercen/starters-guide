@@ -1,10 +1,7 @@
 # Create the Crabs team
 
-<<<<<<< HEAD
-In this section you create a new team in the __Tercen__.
-=======
 In this section you create a new team in __Tercen__.
->>>>>>> 51f05425df5e488a0435ce0890df3d652a6b95ff
+
 
 Once logged in you see your __personal page__, similar to the image below.
 

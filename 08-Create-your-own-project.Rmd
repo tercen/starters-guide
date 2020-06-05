@@ -1,10 +1,8 @@
 # Create your own project
 
-<<<<<<< HEAD
-Congratulations, you've explored, cloned a project and palyed with a __Tercen workflow__.
-=======
-Congratulations, you've explored, cloned a project and dipped into a __Tercen workflow__.
->>>>>>> 51f05425df5e488a0435ce0890df3d652a6b95ff
+Congratulations, you've explored, cloned a project and played with a __Tercen workflow__.
+
+
 
 Now we show you how to create your own project and show how to create the crabs tutorial from start to end.
 

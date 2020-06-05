@@ -1,10 +1,7 @@
 # View personal home page
 
-<<<<<<< HEAD
 In this section we give an overview of your personal home page.
-=======
-In this section you view your personal page.
->>>>>>> 51f05425df5e488a0435ce0890df3d652a6b95ff
+
 
 Once logged in you enter your personal home page, similar to the image below.
 
