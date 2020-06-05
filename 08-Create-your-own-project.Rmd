@@ -1,18 +1,18 @@
 # Create your own project
 
-Congratulations, you've explored, cloned a project and dipped into a __tercen workflow__.
+Congratulations, you've explored, cloned a project and palyed with a __tercen workflow__.
 
-Now we show you how to create them.
+Now we show you how to create your own project and show how to create the crabs tutorial from start to end.
 
 <center><img src="images/create_project_crab.png"></center>
 
 The following steps are covered in the next few chapters:
 
-* Create a team
-* Create a project (in the team)
-* Install an operator (for the team)
+* Create a crabs team
+* Create a crabs project (in the team)
+* Install a `PCA` operator (for the team)
 * Upload the crabs dataset (in the project)
-* Create a workflow (in the project)
-* Export data (in the project)
+* Create a crabs workflow (in the project)
+* Export the results (in the project)
 
 Enjoy the next sections!

@@ -1,4 +1,4 @@
-# View personal page
+# View personal home page
 
 In this section we give an overview of your personal page.
 

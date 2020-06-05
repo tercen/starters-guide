@@ -1,4 +1,4 @@
-# Install PCA operator
+# Install the PCA operator
 
 In this section you install operators for your team to use.
 
