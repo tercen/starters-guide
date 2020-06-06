@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 22 Export results | Starter’s guide to Tercen</title>
+  <title>Chapter 15 Define a Heatmap view | Starter’s guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.17.2 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 22 Export results | Starter’s guide to Tercen" />
+  <meta property="og:title" content="Chapter 15 Define a Heatmap view | Starter’s guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 22 Export results | Starter’s guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 15 Define a Heatmap view | Starter’s guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="in-this-section-you-export-the-results-to-a-downloadable-file-.html"/>
-<link rel="next" href="next-steps.html"/>
+<link rel="prev" href="define-a-heatmap-view.html"/>
+<link rel="next" href="running-a-pca.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -95,10 +95,9 @@
 <li class="chapter" data-level="18" data-path="save-the-crabs-workflow.html"><a href="save-the-crabs-workflow.html"><i class="fa fa-check"></i><b>18</b> Save the Crabs workflow</a></li>
 <li class="chapter" data-level="19" data-path="gathering-the-pca-results.html"><a href="gathering-the-pca-results.html"><i class="fa fa-check"></i><b>19</b> Gathering the PCA results</a></li>
 <li class="chapter" data-level="20" data-path="visualize-a-pairwise.html"><a href="visualize-a-pairwise.html"><i class="fa fa-check"></i><b>20</b> Visualize a pairwise</a></li>
-<li class="chapter" data-level="21" data-path="in-this-section-you-export-the-results-to-a-downloadable-file-.html"><a href="in-this-section-you-export-the-results-to-a-downloadable-file-.html"><i class="fa fa-check"></i><b>21</b> In this section you export the results to a downloadable file.</a></li>
-<li class="chapter" data-level="22" data-path="export-results.html"><a href="export-results.html"><i class="fa fa-check"></i><b>22</b> Export results</a></li>
-<li class="chapter" data-level="23" data-path="next-steps.html"><a href="next-steps.html"><i class="fa fa-check"></i><b>23</b> Next steps</a></li>
-<li class="chapter" data-level="24" data-path="glossary.html"><a href="glossary.html"><i class="fa fa-check"></i><b>24</b> Glossary</a></li>
+<li class="chapter" data-level="21" data-path="export-pca-results.html"><a href="export-pca-results.html"><i class="fa fa-check"></i><b>21</b> Export PCA results</a></li>
+<li class="chapter" data-level="22" data-path="next-steps.html"><a href="next-steps.html"><i class="fa fa-check"></i><b>22</b> Next steps</a></li>
+<li class="chapter" data-level="23" data-path="glossary.html"><a href="glossary.html"><i class="fa fa-check"></i><b>23</b> Glossary</a></li>
 </ul>
 
       </nav>
@@ -116,35 +115,86 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="export-results" class="section level1">
-<h1><span class="header-section-number">Chapter 22</span> Export results</h1>
-<p>In this section you export the results to a downloadable file for your team.
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 51f05425df5e488a0435ce0890df3d652a6b95ff:18-export-result.Rmd</p>
-<p>Head over to the Crabs workflow.</p>
+<div id="define-a-heatmap-view-1" class="section level1">
+<h1><span class="header-section-number">Chapter 15</span> Define a Heatmap view</h1>
+<p>In this section you visualize your data using <strong>projections</strong>.</p>
 <ul>
-<li><p>Right click on the <code>PCA</code> step and choose <code>Add</code></p></li>
-<li><p>Select `Export’</p></li>
-<li><p>Right click on the <code>Export</code> step and select <code>Run</code></p></li>
+<li>Right click on the <code>Crab data</code> <strong>step</strong> and select <code>Add</code></li>
 </ul>
 <center>
-<img src="images/Click_on_export_run.png">
+<img src="images/Rightclick_on_crabs_data.png">
+</center>
+<ul>
+<li>Click on <code>Data step</code></li>
+</ul>
+<center>
+<img src="images/Click_on_data_step.png">
 </center>
 <p><br />
 </p>
-<p>It has now been activated, showing a green status, exporting the data to “New Project”</p>
+<p>A <strong>projection</strong> page opens.</p>
 <ul>
-<li>Go to the “Crabs project” page by clicking it on the top bar</li>
+<li>Click on + left of the crab data to show a the available factors</li>
 </ul>
 <center>
-<img src="images/View_crabs_export_projectpage.png">
+<img src="images/Click_on_factors_crab_data.png">
+</center>
+<p>The <strong>projection</strong> is composed of different <em>zones</em>. The <em>zones</em> descriptions are described in the image below:</p>
+<center>
+<img src="images/View_zones_description.png">
+</center>
+<p><br />
+</p>
+<p>You can create any <strong>projection</strong> of the data by dragging-n-dropping a <em>factor</em> to one of the <em>zones</em>. There are four <em>zones</em> to create a table and three on the left to provide details.</p>
+<p>On the right are:</p>
+<ul>
+<li><em>y-axis zone</em></li>
+<li><em>x-axis zone</em></li>
+<li><em>column zone</em></li>
+<li><em>row zone</em></li>
+</ul>
+<p>On the left are:</p>
+<ul>
+<li><p><em>label zone</em></p></li>
+<li><p><em>colors zone</em></p></li>
+<li><p><em>error bar zone</em><br />
+<br />
+</p></li>
+<li><p>Drag-n-drop the <code>measurement</code> factor to the <em>y-axis zone</em></p></li>
+<li><p>Drag-n-drop the <code>variable</code> factor to the <em>row zone</em></p></li>
+<li><p>Drag-n-drop the <code>observation</code> factor to the <em>column zone</em></p></li>
+</ul>
+<p>You now have the following image:</p>
+<center>
+<img src="images/View_projection_default_size.png">
+</center>
+<p>Notice, the <code>variable</code> <strong>factor</strong> is the row and the <code>observations</code> are the columns.</p>
+<p>We re-size the image to make all the data viewable</p>
+<ul>
+<li>Place the mouse on the row lines and drag them closer.</li>
+<li>Place the mouse on the column lines and drag them closer.</li>
+</ul>
+<center>
+<img src="images/View_resizing_arrow_changes.png">
+</center>
+<p><br />
+</p>
+<p>The re-sized image looks like:</p>
+<center>
+<img src="images/View_projection_resized.png">
 </center>
 <p><br />
 </p>
 <ul>
-<li>Refresh the browser page either using <code>F5</code> or the refresh icon on the browser</li>
+<li>Drag-n-drop the “Measurement” <strong>factor</strong> to <em>colors zone</em></li>
+<li>Select <code>heatmap</code> in the drop down menu where it currently says <code>point</code>.</li>
 </ul>
-<p>The new <code>crabs workflow-Export</code> entry will appear.</p>
-<p>You can download the data by clicking the download icon beside it. It is also available as a <strong>Tercen</strong> <strong>Table</strong> (i.e. data set) and can be used by other workflows.</p>
+<p>The projection window now look like:</p>
+<center>
+<img src="images/View_heatmap_project.png">
+</center>
+<p>Congratulations on your first heatmap visual.</p>
+<p>In the next section we analyze the data by performing a <strong>PCA</strong>.</p>
 
 </div>
             </section>
@@ -152,8 +202,8 @@
           </div>
         </div>
       </div>
-<a href="in-this-section-you-export-the-results-to-a-downloadable-file-.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="next-steps.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="define-a-heatmap-view.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="running-a-pca.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
