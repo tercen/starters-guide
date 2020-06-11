@@ -4,14 +4,6 @@
 In this section we walk you through the cloned crabs project.
 
 You start off in your personal page.
-
-
-* Click on `Teams`
-<center><img src="images/Click_on_teams.png"></center>
-\ 
-
-* Click on `Crabs team`
-<center><img src="images/Click_on_crabs_team.png"></center>
 \ 
 
 * Click on `Crabs project`
@@ -19,7 +11,7 @@ You start off in your personal page.
 
 You are now on the crabs project page and it looks like:
 
-<center><img src="images/View_crabs_project_page.png"></center>
+<center><img src="images/View_cloned_crabs_project.png"></center>
 \
 
 it contains the folllowing:
@@ -30,7 +22,7 @@ it contains the folllowing:
 * Discussion tab
 * Activity tab
 
-* Click on `Crabs workflow`
+* Click on the `Crabs` workflow
 <center><img src="images/Click_on_crabs_workflow.png"></center>
 \
 
@@ -49,12 +41,14 @@ You see that we visualised the data from the crabs_longformat table using a heat
 The __ PCA operator__ is shown on the left.
 The data produced by this __data step__ is visualized by adding another __data step__.
 
+<center><img src="images/View_PCA_projection.png"></center>
+
 * Go back to the workflow main page by clicking on `Crabs workflow`
 
-<center><img src="images/Click_on_crabs_worklow_PCA_back.png"></center>
+<center><img src="images/Click_on_crabs_workflow_PCA_back.png"></center>
 \
 
-* Click on `PCA results`
+* Click on `View`
 
 
 
@@ -68,9 +62,9 @@ Thanks to the drag and drop way of working in __tercen__ you can quickly and int
 Your data can be visualized in many ways using __tercen__ and every visualization can provide different insights. Next you will visualize the crabs_longformat using a pair-wise plot. 
 
 * Click on `Crabs workflow` to go back to the workflow page
-<center><img src="images/Click_on_crabs_worklow_PCA_back.png"></center>
+<center><img src="images/Click_on_crabs_workflow_PCA_back.png"></center>
 
-* Click on `Pair-wise plot`
+* Click on `data step`
 
 
 You will see the __projection__ of the __data step__, as seen in the image below.

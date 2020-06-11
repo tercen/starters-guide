@@ -11,11 +11,9 @@ You can now see the chosen crab project and its files.
 
 * The icon for cloning is shown in the top right
 
-<center><img src="images/View_cloning_button.png"></center>
+<center><img src="images/Click_on_cloning_button.png"></center>
 
 * Click on the cloning icon
-
-<center><img src="images/Click_on_cloning_button.png"></center>
 
 A popup shows, giving you the option to clone to any team you're in.
 
