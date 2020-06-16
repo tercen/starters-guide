@@ -1,31 +1,46 @@
 # Sign in
 
+In this section you will log into the __Tercen__ platform.  
 
-In this section you logging into __Tercen__.
+\
 
+To Sign in:
 
-* Click on the verification email for your Tercen account\
-Or
-* Go to https://Tercen.com and click on  `Sign in`
+\
 
-\ 
-You should now see the sign in menu
+* Go to https://tercen.com and click the `Sign in` link.
+
+\
+
 <center><img src="images/View_signin_empty.png"></center>
-\ 
 
-* Enter your username and password
-<center><img src="images/Enter_signin_filled.png"></center>
-\ 
+\
 
-* Click on `Sign in` link
+* Fill in your details:
+  * Username or email
+  * Password
 
+\
 
-You now see your personal page. 
-\ 
+<center><img src="images/View_signin_filled.png"></center>
+
+\
+
+* Click the `Sign in` button  
+
+\
+
+You will be taken to your personal Home page.
+
+\
 
 <img src="images/View_personal_page.png">
 
+\
+
 You are now signed in to __Tercen__.
 
-In the next section we take a look at your personal page.
+\
+
+Next... Learn to Navigate your personal home page.
 

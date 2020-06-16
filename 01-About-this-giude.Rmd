@@ -1,0 +1,32 @@
+# About this guide
+
+This guide will show you the easiest path to understanding the basics of __Tercen__.
+
+\
+
+<center><img src="images/about_blocks.jpg"></center>
+
+\
+
+Here you will learn how to navigate through  __Tercen__ and use the software to work with your data. 
+
+\
+
+The Chapters are laid out as step-by-step instructions that cover the key areas of use. 
+
+\
+
+* Signing up and Signing in
+* Navigating the interface
+* Defining Teams 
+* Adding Apps to Libraries 
+* Creating and Exploring Projects
+
+\
+
+If you wish to give feedback on this document feel free to create an entry in our [issuetracker](https://github.com/tercen/starters-guide/issues) 
+or send us an email at support@tercen.com.
+
+\
+
+Next... Sign up with __Tercen__.

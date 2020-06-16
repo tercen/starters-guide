@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 4 Sign in | The Starters Guide to Tercen</title>
+  <title>Chapter 9 Working with projects | The Starters Guide to Tercen</title>
   <meta name="description" content="This is a starter’s guide to Tercen" />
   <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 4 Sign in | The Starters Guide to Tercen" />
+  <meta property="og:title" content="Chapter 9 Working with projects | The Starters Guide to Tercen" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 4 Sign in | The Starters Guide to Tercen" />
+  <meta name="twitter:title" content="Chapter 9 Working with projects | The Starters Guide to Tercen" />
   
   <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="sign-up.html"/>
-<link rel="next" href="navigate-your-personal-page.html"/>
+<link rel="prev" href="understanding-projects.html"/>
+<link rel="next" href="next-steps.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -117,62 +117,144 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="sign-in" class="section level1">
-<h1><span class="header-section-number">Chapter 4</span> Sign in</h1>
-<p>In this section you will log into the <strong>Tercen</strong> platform.</p>
-<p><br />
-</p>
-<p>To Sign in:</p>
-<p><br />
-</p>
+<div id="working-with-projects" class="section level1">
+<h1><span class="header-section-number">Chapter 9</span> Working with projects</h1>
+<div id="navigating-and-commenting" class="section level2">
+<h2><span class="header-section-number">9.1</span> Navigating and commenting</h2>
+<p>Discussions
+Activities
+Project Settings
+Files list - edit export delete</p>
+</div>
+<div id="upload-data" class="section level2">
+<h2><span class="header-section-number">9.2</span> Upload data</h2>
+</div>
+<div id="view-import-and-modify-workflows" class="section level2">
+<h2><span class="header-section-number">9.3</span> View import and modify workflows</h2>
+<div id="view-a-workflow" class="section level3">
+<h3><span class="header-section-number">9.3.1</span> View A workflow</h3>
+<p>In this section we walk you through the cloned crabs project.</p>
+<p>You start off in your personal page.</p>
 <ul>
-<li>Go to <a href="https://tercen.com" class="uri">https://tercen.com</a> and click the <code>Sign in</code> link.</li>
-</ul>
-<p><br />
-</p>
+<li><p>Click on <code>Teams</code></p>
 <center>
-<img src="images/View_signin_empty.png">
+<p><img src="images/Click_on_teams.png"></p>
+</center>
+<p> </p></li>
+<li><p>Click on <code>Crabs team</code></p>
+<center>
+<p><img src="images/Click_on_crabs_team.png"></p>
+</center>
+<p> </p></li>
+<li><p>Click on <code>Crabs project</code></p>
+<center>
+<p><img src="images/Click_on_crabs_project.png"></p>
+</center></li>
+</ul>
+<p>You are now on the crabs project page and it looks like:</p>
+<center>
+<img src="images/View_crabs_project_page.png">
 </center>
 <p><br />
 </p>
+<p>it contains the folllowing:</p>
 <ul>
-<li>Fill in your details:
+<li><p>Project tab</p>
 <ul>
-<li>Username or email</li>
-<li>Password</li>
+<li>Data</li>
+<li>Workflow</li>
 </ul></li>
+<li><p>Discussion tab</p></li>
+<li><p>Activity tab</p></li>
+<li><p>Click on <code>Crabs workflow</code></p>
+<center>
+<p><img src="images/Click_on_crabs_workflow.png"></p>
+</center>
+<p><br />
+</p></li>
 </ul>
+The workflow is opened and can interact on your data. It will look like the image below:
+<center>
+<img src="images/View_crabs_workflow.png">
+</center>
 <p><br />
 </p>
+<p>The “crabs_longformat” is preloaded data, containing information about crabs.
+We performed a <strong>PCA</strong> on the data using one of our <strong>Operators</strong>. We call this a <strong>data step</strong>.</p>
+<ul>
+<li><p>Doubleclick on <code>PCA</code></p>
 <center>
-<img src="images/View_signin_filled.png">
+<p><img src="images/Click_on_PCA_datastep.png"></p>
+</center>
+<p><br />
+You see that we visualised the data from the crabs_longformat table using a heatmap.
+The __ PCA operator__ is shown on the left.
+The data produced by this <strong>data step</strong> is visualized by adding another <strong>data step</strong>.</p></li>
+<li><p>Go back to the workflow main page by clicking on <code>Crabs workflow</code></p></li>
+</ul>
+<center>
+<img src="images/Click_on_crabs_worklow_PCA_back.png">
 </center>
 <p><br />
 </p>
 <ul>
-<li>Click the <code>Sign in</code> button</li>
+<li>Click on <code>PCA results</code></li>
 </ul>
+<p>On the left side of the <strong>projection</strong> you see the results of the <strong>PCA</strong>.</p>
+<center>
+<img src="images/View_PCA_results.png">
+</center>
 <p><br />
-</p>
-<p>You will be taken to your personal Home page.</p>
+We visualized the data using PC1 and PC2, while coloring the species and sex of the crabs.<br />
+Thanks to the drag and drop way of working in <strong>Tercen</strong> you can quickly and intuitively visualize the results of your data.</p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+Your data can be visualized in many ways using <strong>Tercen</strong> and every visualization can provide different insights. Next we will visualize the crabs_longformat using a pair-wise plot.
+=======
+Your data can be visualized in many ways using <strong>tercen</strong> and every visualization can provide different insights. Next you will visualize the crabs_longformat using a pair-wise plot.</p>
+<ul>
+<li>Click on <code>Crabs workflow</code> to go back to the workflow page
+<center>
+<img src="images/Click_on_crabs_worklow_PCA_back.png">
+</center>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>51f05425df5e488a0435ce0890df3d652a6b95ff</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote></li>
+<li>Click on <code>Pair-wise plot</code></li>
+</ul>
+<p>You will see the <strong>projection</strong> of the <strong>data step</strong>, as seen in the image below.</p>
+<center>
+<img src="images/View_pairwise_plot.png">
+</center>
 <p><br />
-</p>
-<p><img src="images/View_personal_page.png"></p>
-<p><br />
-</p>
-<p>You are now signed in to <strong>Tercen</strong>.</p>
-<p><br />
-</p>
-<p>Next… Learn to Navigate your personal home page.</p>
+In this <strong>projection</strong> you see that we visualized the differences between male and female, by coloring by sex.
+In the columns you can appreciate that you can add multiple levels, differentiating between the species and the variables.</p>
+<p>You now have an idea of the possibilities using <strong>Tercen</strong>. For more information about how to upload and work with your own data, continue reading the getting started guide.</p>
+</div>
+</div>
+<div id="adding-documentation" class="section level2">
+<h2><span class="header-section-number">9.4</span> Adding Documentation</h2>
 
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="sign-up.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="navigate-your-personal-page.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="understanding-projects.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="next-steps.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
