@@ -27,7 +27,7 @@ Configure your team on the administration page.
 
 \
 
-<center><img src="images/Defining_teams_DefineTeam.png"></center>
+<center><img src="images/SHADOW_Defining_teams_DefineTeam.png"></center>
 
 \
 

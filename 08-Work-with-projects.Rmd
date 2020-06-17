@@ -1,16 +1,16 @@
 # Working with projects
 
-## Navigating and commenting
+## Navigating and commenting {-}
 Discussions
 Activities
 Project Settings
 Files list - edit export delete
 
-## Upload data
+## Upload data {-}
 
-## View import and modify workflows
+## View import and modify workflows {-}
 
-### View A workflow
+### View A workflow {-}
 
 
 In this section we walk you through the cloned crabs project.
@@ -101,4 +101,4 @@ You now have an idea of the possibilities using __Tercen__. For more information
 
 
 
-## Adding Documentation
+## Adding Documentation {-}

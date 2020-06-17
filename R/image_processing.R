@@ -1,10 +1,12 @@
 library(magick)
 library(magrittr)
 
-img <- image_read('images\\add_workflow.png')
+img <- image_read('images\\Defining_teams_DefineTeam.png')
 
-img_blue <- image_border(img, "blue", "1x1")
+img_shadow <-  image_shadow(img, color = "black", bg = "white", geometry = "50x10+30+30", operator = "atop", offset = "+20+20")
 
-image_write(img_blue, 'images\\BLUE_add_workflow.png' )
+image_write(img_shadow, 'images\\SHADOWDefi_ning_teams_DefineTeam.png' )
 
-blue_images <- list.files('images', pattern = ("workflow"))
+# blue_images <- list.files('images', pattern = ("workflow"))
+
+

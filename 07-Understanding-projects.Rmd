@@ -2,9 +2,11 @@
 
 Projects are another key concept in __Tercen__, they are the containers where your research is held. 
 
-Projects can be set as private and restricted to you or your team. 
+Projects can be set as "Private" or "Public"
 
-Or they can be made public, which enables collaboration with the wider community. 
+Private projects can only be viewed by you personally or the team that owns it. Private projects can be copied and adjusted only by these people.
+
+Public projects are available to be viewed and collaborated-on by the wider community. They can be copied by anyone to use as a basis for their own research.
 
 * A project is created by a Team.
 * Data is uploaded to projects.
@@ -12,37 +14,29 @@ Or they can be made public, which enables collaboration with the wider community
 * Projects hold the record of comments and feedback submitted by your team or community.
 * Supporting documents can be uploaded to projects.
 
-In previous sections you learned how to locate your personal projects, and the projects created by your teams. __Tercen__ also provides a platform where Publicly shared projects can be accessed from the cloud.
+In previous sections you learned how to locate your personal and team projects.
+
+__Tercen__ also provides a platform where Publicly shared projects can be accessed from the cloud.
 
 \
 
-## Explore public projects
+## Explore public projects {-}
 
 To access the __Tercen__ public projects click the `Explore` link in the header bar. 
 
-\
-
-<center><img src="images/work_with_projects_explore.png"></center>
-
-\
-
 You will be taken to the public projects page which is divided into two sections.
 
-\
+`Collections` is where __Tercen__ displays sponsored research examples
 
-`Collections` where __Tercen__ displays sponsored research examples
+`Community` is where all of the projects made "Public" by their creators appear.
+
+\
 
 <center><img src="images/work_with_projects_explore_collections.png"></center>
 
 \
 
-`Community` where all the projects made "Public" by their creators appear.
-
-<center><img src="images/work_with_projects_explore_community.png"></center>
-
-\
-
-## Clone an existing project
+## Clone an existing project {-}
 
 Tercen provides two ways to create a project. 
 
@@ -53,11 +47,13 @@ The simplest method for creating a project is to Clone from a pre-existing proje
 
 Any project can be cloned once you have access.
 
-Personal projects, projects created by your teams and public shared projects, can all be cloned. 
+Personal projects, projects created by your teams, and public shared projects can all be cloned. 
 
 \
 
-Find the project you wish to clone. For example, in the public community.
+Find the project you wish to clone. 
+
+For example, in the public community.
 
 \
 
@@ -65,32 +61,41 @@ Find the project you wish to clone. For example, in the public community.
 
 \
 
-Hover your mouse over the project until the `Clone` icon appears. Click it.
+Hover your mouse over the project until the `Clone` icon appears. 
+
+Click on the icon.
 
 \
 
-<center><img src="images/work_with_projects_explore_community_clone.png"></center>
+<left><img src="images/work_with_projects_explore_community_clone.png"></left>
 
 
 \
 
-Select whether to copy the project to your personal home page or one of your teams.
+Select the destination of the new project, your personal home page or, one of your teams.
+
+Click the `Next` Button
 
 \
 
 <center><img src="images/work_with_projects_explore_community_clone_add_team.png"></center>
 
+
 \
 
-Edit the name and description of your new project and decide if you want to make it publicly available or not.
+Edit the name and description of your new project.
+
+Decide if you want to make it publicly available.
+
+Click the `Ok` Button
 
 <center><img src="images/work_with_projects_explore_community_clone_details.png"></center>
 
 \
 
-Click `Ok`
+This will copy any uploaded data, workflows, and supporting documents contained in the original project. 
 
-This will copy any uploaded data, workflows, and supporting documents contained in the original project. Discussion forum posts and activity histories will not be copied, they are re-set to be blank.
+Discussion forum posts and activity histories will not be copied. They are re-set to be blank.
 
 Your new project is now ready for modification.
 
@@ -98,13 +103,41 @@ Your new project is now ready for modification.
 
 
 
-## Create a new project
+## Create a new project {-}
 
-New Project
+You have the option to create a new project from the projects tab of your __personal home page__ or from one of your team pages.
 
-Select A Team
+In
 
-Enter Project Description
+Click the `New Project` Button
+
+If you have created a project from your personal page you will be given the option to assign it to your personal page or one of your teams.
+
+\
+
+<center><img src="images/work_with_projects_new_project_select_team.png"></center>
+
+\
+
+Assign a destination and click the `Next` button to add a description
+
+\
+
+If you create a project from a team page it will be automatically assigned to that team.
+
+You will be prompted to add a description..
+
+\
+
+<center><img src="images/work_with_projects_new_project_description.png"></center>
+
+\
+
+You have created a new project
+
+\
+
+<center><img src="images/work_with_projects_new_project.png"></center>
 
 \
 

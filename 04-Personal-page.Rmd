@@ -10,7 +10,7 @@ Your home page has three sections.
 
 \
 
-## Header bar
+## Header bar {-}
 
 <center><img src="images/View_personal_page_header.png"></center>
 
@@ -61,7 +61,7 @@ All parts of the header bar are actionable by clicking on them.
 
 \
 
-## Team icons
+## Team icons {-}
 
 <center><img src="images/View_personal_page_icons.png"></center>
 
@@ -83,7 +83,7 @@ Click the small icons at the bottom of the section go to the Team Page and see a
 
 \
 
-## Project area
+## Project area {-}
 
 \
 
