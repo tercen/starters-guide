@@ -1,0 +1,13 @@
+# Next steps
+
+We recommend that you try our Crabs Tutorial to gain more in-depth knowledge with a real data set. 
+
+After that, the __Tercen__ user manual provides more technical detail for the functions of the software and how to create apps for data manipulation. 
+
+Read it online here [__Tercen book__](https://tercen.github.io/tercen-book/)
+
+Finally, training sessions can be booked with a __Tercen__ instructor for further guidance.
+
+You can your specific analysis needs and discover what optimiosations are available fror research in your scientific specialty.
+
+[__Book a one-to-one session__](https://calendly.com/tercen-demo/tercen-demo) for further guidance  

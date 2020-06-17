@@ -1,0 +1,25 @@
+# Creating and modifying workflows
+
+
+<center><img src="images/08_work_with_projects_project_document_upload.png"></center>
+
+
+Right click - Background - Add
+
+Table
+  Always Begin with data
+
+Workflow
+
+Input
+
+
+
+Right Click - Background - Run
+
+
+
+Rickt Click on a box? - 
+
+
+Clone icon

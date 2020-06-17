@@ -1,104 +1,199 @@
 # Working with projects
 
+This section will orientate you to __Tercen__ project screens. 
+
+You will learn the meanings of the icons.
+
+You will be shown how to upload data and create a basic workflow.
+
+\
+
 ## Navigating and commenting {-}
-Discussions
-Activities
-Project Settings
-Files list - edit export delete
+
+Icons exist to perform administrative tasks and to provide visual information about the state of your project.
+
+<center><img src="images/08_work_with_projects_project_icons_1.png"></center>
+
+`Clone`   - This icon allows you to copy the project.\
+`Locked`  - Shows that project has not been made public. Only the team can view it.\
+
+\
+
+Hovering your mouse over a project element will make administration icons appear.
+
+<center><img src="images/08_work_with_projects_project_icons_2.png"></center>
+
+`Rename`  - Change the name of the element.\
+`Export`  - Export this element. It can then be added to other projects.\
+`Clone`   - Projects can have more than one workflow.\   
+`Delete`  - Removes the selected element.\
+
+\
+
+A project has three main screens to navigate.
+
+<center><img src="images/08_work_with_projects_project_tabs.png"></center>
+
+`Project`       - where the main elements of the research are accessed.\
+`Discussions`   - Where team members and public users can discuss and comment.\
+`Activities`    - A log of the comments and operations performed on the project.\
+
+\
+
+Selecting the Activities tab shows a history of the project.
+
+<center><img src="images/08_work_with_projects_activities.png"></center>
+
+Comments and changes are recorded here in a decending timeline.
+
+Clicking on a link will bring you to the relevant event.
+
+\
+
+Selecting the Discussions tab shows a forum where feedback in information is shared.
+
+<center><img src="images/08_work_with_projects_discussions_add.png"></center>
+
+Discussion threads can be created and comments added by anyone with permission to view the project.
+
+\
+
+<center><img src="images/08_work_with_projects_discussions_thread.png"></center>
+
+The Admin of the project can edit and delete all comments.
+
+\
+
+The Project tab contains the main elements of the research project organised in
+
+Functions Bar- The main commands which can be performed on a project.
+
+<center><img src="images/08_work_with_projects_project_project_tab_functions.png"></center>
+
+Latest Activity - The latest action on the project recorded in Activities.
+
+<center><img src="images/08_work_with_projects_project_project_tab_activity.png"></center>
+
+Elements - the files that are attached to the project. They can be documents, data or workflows.
+
+<center><img src="images/08_work_with_projects_project_project_tab_elements.png"></center>
+
+\
 
 ## Upload data {-}
 
-## View import and modify workflows {-}
+<center><img src="images/08_work_with_projects_new_data_set.png"></center>
 
-### View A workflow {-}
+Click `New data set` to add a data file
 
-
-In this section we walk you through the cloned crabs project.
-
-You start off in your personal page.
-
-
-* Click on `Teams`
-<center><img src="images/Click_on_teams.png"></center>
-\ 
-
-* Click on `Crabs team`
-<center><img src="images/Click_on_crabs_team.png"></center>
-\ 
-
-* Click on `Crabs project`
-<center><img src="images/Click_on_crabs_project.png"></center>
-
-You are now on the crabs project page and it looks like:
-
-<center><img src="images/View_crabs_project_page.png"></center>
 \
 
-it contains the folllowing:
+<center><img src="images/08_work_with_projects_new_data_set_choose.png"></center>
 
-* Project tab
-    * Data
-    * Workflow
-* Discussion tab
-* Activity tab
-
-* Click on `Crabs workflow`
-<center><img src="images/Click_on_crabs_workflow.png"></center>
 \
 
-The workflow is opened and can interact on your data. It will look like the image below:
-<center><img src="images/View_crabs_workflow.png"></center>
+Give your data a name.
+
+Browse to the location of the data file and select it
+
+__Tercen__ will attempt to detect the type of data file you have added.
+
 \
 
+<center><img src="images/08_work_with_projects_new_data_set_type.png"></center>
 
-The "crabs_longformat" is preloaded data, containing information about crabs. 
-We performed a __PCA__ on the data using one of our __Operators__. We call this a __data step__.
-
-* Doubleclick on `PCA`
-<center><img src="images/Click_on_PCA_datastep.png"></center>
-\
-You see that we visualised the data from the crabs_longformat table using a heatmap.
-The __ PCA operator__ is shown on the left.
-The data produced by this __data step__ is visualized by adding another __data step__.
-
-* Go back to the workflow main page by clicking on `Crabs workflow`
-
-<center><img src="images/Click_on_crabs_worklow_PCA_back.png"></center>
 \
 
-* Click on `PCA results`
+You can over-ride the settings by selecting the following
 
+* Seperator character
+* Style used for quotes
+* Encoding Type
 
+Latin 1 is the simplest encoding type but does not recognise all possible diacritical marks. 
 
-On the left side of the __projection__ you see the results of the __PCA__. 
+If you have data in a language with many accent marks encode your data as UTF-8 before uploading.
 
-<center><img src="images/View_PCA_results.png"></center>
 \
-We visualized the data using PC1 and PC2, while coloring the species and sex of the crabs.\
-Thanks to the drag and drop way of working in __Tercen__ you can quickly and intuitively visualize the results of your data. 
 
-<<<<<<< HEAD
-Your data can be visualized in many ways using __Tercen__ and every visualization can provide different insights. Next we will visualize the crabs_longformat using a pair-wise plot. 
-=======
-Your data can be visualized in many ways using __tercen__ and every visualization can provide different insights. Next you will visualize the crabs_longformat using a pair-wise plot. 
+__Tercen__ will attempt to recognise your data and will show you error messages to help debug it.
 
-* Click on `Crabs workflow` to go back to the workflow page
-<center><img src="images/Click_on_crabs_worklow_PCA_back.png"></center>
->>>>>>> 51f05425df5e488a0435ce0890df3d652a6b95ff
+When your data is recognised __Tercen__ will display a representation of it.
 
-* Click on `Pair-wise plot`
+<center><img src="images/08_work_with_projects_new_data_set_representation.png"></center>
 
+Click the ``Next` button
 
-You will see the __projection__ of the __data step__, as seen in the image below.
-
-<center><img src="images/View_pairwise_plot.png"></center>
 \
-In this __projection__ you see that we visualized the differences between male and female, by coloring by sex.
-In the columns you can appreciate that you can add multiple levels, differentiating between the species and the variables.
 
-You now have an idea of the possibilities using __Tercen__. For more information about how to upload and work with your own data, continue reading the getting started guide. 
+>(I don't know what this is)
 
+<center><img src="images/08_work_with_projects_new_data_set_value.png"></center>
 
+\
 
+Click `Ok` to complete the upload of your data
+
+\
+
+## Import and view workflows {-}
+
+Workflows can be imported as a .zip file created by exporting from another project.
+
+\
+
+<center><img src="images/08_work_with_projects_project_project_workflow_import.png"></center>
+
+\
+
+<center><img src="images/08_work_with_projects_project_project_workflow_import_detail.png"></center>
+
+\
+
+Workflows can be created new.
+
+\
+
+<center><img src="images/08_work_with_projects_project_project_workflow_new.png"></center>
+
+\
+
+Worflows can be viewed and edited by clicking on its element link.
+
+\
+
+<center><img src="images/08_work_with_projects_project_project_workflow_select.png"></center>
+
+\
+
+When creating or viewing a workflow you will see the Workflow page
+
+\
+
+<center><img src="images/08_work_with_projects_project_workflow_screen.png"></center>
+
+For more information on creating and modifying workflows see the next chapter.
+
+\
 
 ## Adding Documentation {-}
+
+Documents can be added to a project by writing a text file directly in __Tercen__
+
+\
+
+<center><img src="images/08_work_with_projects_project_document_new.png"></center>
+
+\
+
+Or uploading a file created in a different program.
+
+\
+
+<center><img src="images/08_work_with_projects_project_document_upload.png"></center>
+
+\
+
+\
+
+Next... Creating and Editing Workflows
