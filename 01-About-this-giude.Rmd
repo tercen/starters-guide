@@ -8,11 +8,11 @@ This guide will show you the easiest path to understanding the basics of __Terce
 
 \
 
-Here you will learn how to navigate through  __Tercen__ and use the software to work with your data. 
+Here you will learn how to navigate  __Tercen__ and use it to work with your data. 
 
 \
 
-The Chapters are laid out as step-by-step instructions that cover the key areas of use. 
+Chapters are laid out as step-by-step instructions that cover the key areas of use. 
 
 \
 
@@ -21,6 +21,7 @@ The Chapters are laid out as step-by-step instructions that cover the key areas 
 * Defining Teams 
 * Adding Apps to Libraries 
 * Creating and Exploring Projects
+* Understanding workflows
 
 \
 
@@ -29,4 +30,6 @@ or send us an email at support@tercen.com.
 
 \
 
-Next... Sign up with __Tercen__.
+\
+
+__Next...__ Sign up with __Tercen__.

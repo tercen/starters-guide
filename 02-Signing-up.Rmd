@@ -12,7 +12,7 @@ To Sign up:
 
 \
 
-* Go to https://tercen.com
+Go to https://tercen.com
 
 \
 
@@ -20,10 +20,10 @@ To Sign up:
 
 \
 
-* Fill in your details:
-  * Username
-  * Email
-  * Password
+Fill in your details:
+* Username
+* Email
+* Password
 
 \
   
@@ -31,7 +31,7 @@ To Sign up:
 
 \
 
-* Click the `Sign up` button.
+Click the `Sign up` button.
 
 \
 
@@ -47,4 +47,6 @@ Open your email and activate your account by clicking the `Complete registration
 
 \
 
-Next... Sign in to your new account.
+\
+
+__Next...__ Sign in to your new account.

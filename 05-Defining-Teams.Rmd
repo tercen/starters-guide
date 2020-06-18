@@ -1,6 +1,10 @@
 # Define a team
 
-Teams are an important concept in __Tercen__. Researchers are members of a team and inside the team they create and own projects. Teams have the following characteristics. 
+Teams are an important concept in __Tercen__. Researchers are members of a team and as part of the team they create and own projects. 
+
+\
+
+Teams have the following characteristics. 
 
 * A team is created by a user.
 * The creator is the Administrator of the team.
@@ -9,29 +13,33 @@ Teams are an important concept in __Tercen__. Researchers are members of a team 
 * Teams own a Library of Apps and a set Projects they are applied to
 * Members have access permissions to control how they affect the things the team owns.
 
+\
+
 In __Tercen__ you always work in a team. Even if it is just a single member of your personal team.
 
 \
 
-To create a team. Access the Teams tab on your personal home page. 
+To create a team select the __Teams__ tab on your personal home page. 
 
 \
-
-Press the `New Team` button.
 
 <center><img src="images/Defining_teams_NewTeam.png"></center>
 
 \
 
-Configure your team on the administration page.
+Press the `New Team` button.
 
 \
 
-<center><img src="images/SHADOW_Defining_teams_DefineTeam.png"></center>
+Configure the team on the administration page.
 
 \
 
-* Name your team
+<center><img src="images/Defining_teams_DefineTeam.png"></center>
+
+\
+
+* Name the team
 
 * Enter the user-name of any person you want to add to the team.
 
@@ -41,13 +49,19 @@ Configure your team on the administration page.
 `Read Write`  - Can modify projects, such as adding operators to work-flows\
 `Admin`       - Can add and remove users to the team and change their permissions\
 
+\
+
 Click the `Ok` button to save your configuration.
+
+\
+
+__Modifying Teams__
 
 \
 
 A Teams membership can be modified at later stage. 
 
-To do this, access the Team Page by clicking on its icon.
+To do this, access the Team page by clicking its icon.
 
 \
 
@@ -57,16 +71,20 @@ To do this, access the Team Page by clicking on its icon.
 
 Select the `Members` tab
 
+\
+
 Click the `Manage team members` link
+
+\
 
 <center><img src="images/Defining_teams_modify_select.png"></center>
 
 \
 
-Now you can Add and Remove team members or change their access permissions.
+Now you can Add and Remove team members, or change their access permissions.
 
 \
 
 \
 
-Next... add an app to your Library.
+__Next__... Add an app to your Library.

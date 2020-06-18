@@ -8,7 +8,7 @@ To Sign in:
 
 \
 
-* Go to https://tercen.com and click the `Sign in` link.
+Go to https://tercen.com and click the `Sign in` link.
 
 \
 
@@ -16,9 +16,9 @@ To Sign in:
 
 \
 
-* Fill in your details:
-  * Username or email
-  * Password
+Fill in your details:
+* Username (or email)
+* Password
 
 \
 
@@ -26,7 +26,7 @@ To Sign in:
 
 \
 
-* Click the `Sign in` button  
+Click the `Sign in` button  
 
 \
 
@@ -42,5 +42,7 @@ You are now signed in to __Tercen__.
 
 \
 
-Next... Learn to Navigate your personal home page.
+\
+
+__Next...__ Learn to Navigate your personal home page.
 
