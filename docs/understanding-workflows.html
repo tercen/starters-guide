@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 10 Understanding workflows | The Starters Guide to Tercen</title>
+  <meta name="description" content="This is a starter’s guide to Tercen" />
+  <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 10 Understanding workflows | The Starters Guide to Tercen" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is a starter’s guide to Tercen" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 10 Understanding workflows | The Starters Guide to Tercen" />
+  
+  <meta name="twitter:description" content="This is a starter’s guide to Tercen" />
+  
+
+<meta name="author" content="" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="working-with-projects.html"/>
+<link rel="next" href="next-steps.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-105575395-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="2" data-path="about-this-guide.html"><a href="about-this-guide.html"><i class="fa fa-check"></i><b>2</b> About this guide</a></li>
+<li class="chapter" data-level="3" data-path="sign-up.html"><a href="sign-up.html"><i class="fa fa-check"></i><b>3</b> Sign up</a></li>
+<li class="chapter" data-level="4" data-path="sign-in.html"><a href="sign-in.html"><i class="fa fa-check"></i><b>4</b> Sign in</a></li>
+<li class="chapter" data-level="5" data-path="navigate-your-personal-page.html"><a href="navigate-your-personal-page.html"><i class="fa fa-check"></i><b>5</b> Navigate your personal page</a><ul>
+<li class="chapter" data-level="" data-path="navigate-your-personal-page.html"><a href="navigate-your-personal-page.html#header-bar"><i class="fa fa-check"></i>Header bar</a></li>
+<li class="chapter" data-level="" data-path="navigate-your-personal-page.html"><a href="navigate-your-personal-page.html#team-icons"><i class="fa fa-check"></i>Team icons</a></li>
+<li class="chapter" data-level="" data-path="navigate-your-personal-page.html"><a href="navigate-your-personal-page.html#project-area"><i class="fa fa-check"></i>Project area</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="define-a-team.html"><a href="define-a-team.html"><i class="fa fa-check"></i><b>6</b> Define a team</a></li>
+<li class="chapter" data-level="7" data-path="add-apps-to-a-library.html"><a href="add-apps-to-a-library.html"><i class="fa fa-check"></i><b>7</b> Add apps to a library</a></li>
+<li class="chapter" data-level="8" data-path="understanding-projects.html"><a href="understanding-projects.html"><i class="fa fa-check"></i><b>8</b> Understanding projects</a><ul>
+<li class="chapter" data-level="" data-path="understanding-projects.html"><a href="understanding-projects.html#explore-public-projects"><i class="fa fa-check"></i>Explore public projects</a></li>
+<li class="chapter" data-level="" data-path="understanding-projects.html"><a href="understanding-projects.html#clone-an-existing-project"><i class="fa fa-check"></i>Clone an existing project</a></li>
+<li class="chapter" data-level="" data-path="understanding-projects.html"><a href="understanding-projects.html#create-a-new-project"><i class="fa fa-check"></i>Create a new project</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="working-with-projects.html"><a href="working-with-projects.html"><i class="fa fa-check"></i><b>9</b> Working with projects</a><ul>
+<li class="chapter" data-level="" data-path="working-with-projects.html"><a href="working-with-projects.html#navigating-and-commenting"><i class="fa fa-check"></i>Navigating and commenting</a></li>
+<li class="chapter" data-level="" data-path="working-with-projects.html"><a href="working-with-projects.html#upload-data"><i class="fa fa-check"></i>Upload data</a></li>
+<li class="chapter" data-level="" data-path="working-with-projects.html"><a href="working-with-projects.html#import-and-view-workflows"><i class="fa fa-check"></i>Import and view workflows</a></li>
+<li class="chapter" data-level="" data-path="working-with-projects.html"><a href="working-with-projects.html#adding-documentation"><i class="fa fa-check"></i>Adding Documentation</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="understanding-workflows.html"><a href="understanding-workflows.html"><i class="fa fa-check"></i><b>10</b> Understanding workflows</a></li>
+<li class="chapter" data-level="11" data-path="next-steps.html"><a href="next-steps.html"><i class="fa fa-check"></i><b>11</b> Next steps</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">The Starters Guide to Tercen</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="understanding-workflows" class="section level1">
+<h1><span class="header-section-number">Chapter 10</span> Understanding workflows</h1>
+<p>Workflows contain the core functionality of <strong>Tercen</strong>.</p>
+<p>They are the place where computations are performed and visualisations are created from the results.</p>
+<p>In this Chapter you will learn how to navigate the workflow building page, identify Data Steps, and view visualisations.</p>
+<p>It is not intended for you to be an expert immediately after reading this guide. Further study is recommended before you attempt to create your own workflow.</p>
+<p>A great next step is to complete our tutorial which shows you how to re-create our example Crabs Project.</p>
+<p><br />
+</p>
+<p><strong>The Workflow Building Page</strong></p>
+<p>The best way to start getting familiar with workflows is to clone an existing project and examine it.</p>
+<p><br />
+</p>
+<p>Browse to <strong>Explore</strong> and select the <strong>tercen/Crabs Tutorial</strong> press the <code>Clone</code> icon.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflow_clone_crabs.gif">
+</center>
+<p><br />
+</p>
+<p>In the elements section click the workflow named <code>Crabs</code> to view the workflow builder page.</p>
+<p><br />
+</p>
+<p>It will look like this.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_builder_crabs.png">
+</center>
+<p><br />
+</p>
+<p><strong>Data Steps and Links</strong></p>
+<p>Workflows are made up of <strong>Data Steps</strong> (represented by boxes) and <strong>links</strong> (represented by lines)</p>
+<p>They are arranged in a hierarchy where the output of a Data Step forms the input of the Step linked in the tier below.</p>
+<p>Both the calculations made by operators in the Data Step, and the original data, are passed to the next step.</p>
+<p>The first step in a workflow is always the Data Table which was created when data was uploaded (see Chapter 9)</p>
+<p><br />
+</p>
+<p><strong>Manipulating Data Steps</strong></p>
+<p>Data Steps are added and adjusted by means of two menus activated by right clicking your mouse.</p>
+<p>Right clicking on the <strong>white background</strong> of the builder brings up the short menu.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_builder_right_click_menu.png">
+</center>
+<p><br />
+</p>
+<ul>
+<li><code>Save workflow</code> - Important after a modification to a step or after performing a caluclation</li>
+<li><code>Add</code> - Add a new step which you will link manually</li>
+<li><code>Run All</code> - Execute all calculations performed by operators in all steps.</li>
+</ul>
+<p><br />
+</p>
+<p>Right clicking on a <strong>Data Step</strong> brings up the long menu.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_builder_right_click_step.png">
+</center>
+<p><br />
+</p>
+<ul>
+<li><code>Run/Reset</code> - Activate or clear the internal calculations performed by this step.</li>
+<li><code>Edit</code> - Open the visualisation page to view and perform calculations</li>
+<li><code>Rename</code> - Change the Data step label</li>
+<li><code>Remove</code> - Delete the Data Step</li>
+<li><code>Duplicate</code> - Copy a Step. The new one is linked in the same tier.<br />
+</li>
+<li><code>Add</code> - Add a new step which is linked in the tier below.</li>
+</ul>
+<p><br />
+</p>
+<p><strong>Linking</strong></p>
+<p>Steps added from the long menu are linked automatically.</p>
+<p>Steps can be linked manually by clicking on nodes.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflow_edit_links.gif">
+</center>
+<p><br />
+</p>
+<p><strong>Running</strong></p>
+<p>The Data Step will show a green light when it has performed it’s internal calculations and the results are ready to pass to the next tier.</p>
+<p>Steps which have been adjusted, reset, or newly added need to be re-calculated.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflow_reset_run.gif">
+</center>
+<p><br />
+</p>
+<p><strong>Viewing a Data Visualisation</strong></p>
+<p>Double click on a data step or edit it from the long menu to view the projection made by that step.</p>
+<p>You will see the Projection Page.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_visualisation_blank.png">
+</center>
+<p>It is divided into sections.</p>
+<p>The link bar shows the data being used by this step.</p>
+<p>This included the original table and any re-factored data from previous steps.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_visualisation_data.png">
+</center>
+<p><br />
+</p>
+<p>The Factors section shows the groups and variables that are being used.</p>
+<p>They can be the headers from your original data file or groups made by the calculations of a previous data step.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_visualisation_factors.png">
+</center>
+<p><br />
+</p>
+<p>The filters and visualisations control panel control how your output looks.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_visualisation_control.png">
+</center>
+<p><br />
+</p>
+<p>The operators panel allows you to add or change which operator from your library is being applied.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflows_visualisation_operator.png">
+</center>
+<p>You can run and re-set calculations here.</p>
+<p><br />
+</p>
+<center>
+<img src="images/09_workflow_visualise.gif">
+</center>
+<p><br />
+</p>
+<p><br />
+</p>
+<p>Thank you for reading the <strong>Tercen starters guide</strong> we hope you have gained enough knowledge to navigate the software and begin to learn how it is used.</p>
+<p><br />
+</p>
+<p><br />
+</p>
+<p><strong>Next…</strong> learn about resources for further training.</p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="working-with-projects.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="next-steps.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

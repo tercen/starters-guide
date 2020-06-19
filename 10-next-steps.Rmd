@@ -1,13 +1,39 @@
 # Next steps
 
-We recommend that you try our Crabs Tutorial to gain more in-depth knowledge with a real data set. 
+The starters Guide is designed to give you an overview of __Tercen__ and teach you how to navigate the interface.
 
-After that, the __Tercen__ user manual provides more technical detail for the functions of the software and how to create apps for data manipulation. 
+\
+
+It is not intended to give detailed knowledge of complex technical areas such as creating workflows. More training is required for that.
+
+\
+
+We recommend that you try our Crabs Tutorial to gain more in-depth knowledge of workflows using a real data set. 
+
+\
+
+We are also on hand to provide a one-to-one training session for further guidance.
+
+\
+
+Our instructors will show you how to build workflows optimised to suit your scientific specialty.
+
+\
+
+You can book a session here.
+
+[![Request a Demo](images/button.png)](https://calendly.com/tercen-demo/tercen-demo)
+
+\
+
+After that, the __Tercen__ user manual provides more detail on the functions of the software and how to create apps for data manipulation.
+
+\
 
 Read it online here [__Tercen book__](https://tercen.github.io/tercen-book/)
 
-Finally, training sessions can be booked with a __Tercen__ instructor for further guidance.
 
-You can your specific analysis needs and discover what optimiosations are available fror research in your scientific specialty.
 
-[__Book a one-to-one session__](https://calendly.com/tercen-demo/tercen-demo) for further guidance  
+
+
+

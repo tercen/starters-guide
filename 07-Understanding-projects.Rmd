@@ -50,7 +50,7 @@ Tercen provides two ways to create a project.
 
 \
 
-The simplest method for creating a project is to Clone from a pre-existing project. 
+The simplest method for creating a project is to __Clone__ from a pre-existing project. 
 
 \
 
@@ -100,11 +100,11 @@ Click the `Ok` Button
 
 \
 
-Cloning copies any uploaded data, workflows, and supporting documents contained in the original project. 
+Cloning copies the data, workflows, and supporting documents contained in the original project. 
 
 \
 
-Discussion forum posts and activity histories will not be copied. They are re-set to be blank.
+Discussion forum posts and activity histories are not copied. These are re-set to be blank.
 
 \
 

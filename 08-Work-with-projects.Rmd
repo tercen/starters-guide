@@ -163,7 +163,14 @@ Click the ``Next` button
 
 \
 
->(I don't know what this is)
+There is an optional screen where data in a wide format can be configured to have a long format.
+
+\
+
+
+This is useful for some later calculations.
+
+\
 
 <center><img src="images/08_work_with_projects_new_data_set_value.png"></center>
 
@@ -175,7 +182,7 @@ Click `Ok` to complete the upload of your data
 
 ## Import and view workflows {-}
 
-Workflows can be imported as a .zip file created by exporting from another project.
+Workflows can be imported from a .zip file that was exported from another project.
 
 \
 
@@ -187,7 +194,7 @@ Workflows can be imported as a .zip file created by exporting from another proje
 
 \
 
-Workflows can be created new.
+New Workflows can be created from the function bar.
 
 \
 
@@ -195,7 +202,7 @@ Workflows can be created new.
 
 \
 
-Worflows can be viewed and edited by clicking on its element link.
+A pre-existing Workflow can be viewed, and edited, by clicking on its link.
 
 \
 
@@ -203,19 +210,23 @@ Worflows can be viewed and edited by clicking on its element link.
 
 \
 
-When creating or viewing a workflow you will see the Workflow page
+Creating or viewing a workflow will bring you to the Workflow builder page
 
 \
 
 <center><img src="images/08_work_with_projects_project_workflow_screen.png"></center>
 
-For more information on creating and modifying workflows see the next chapter.
+\
+
+For more detailed information on creating and modifying workflows see the next chapter.
 
 \
 
 ## Adding Documentation {-}
 
-Documents can be added to a project by writing a text file directly in __Tercen__
+Documents can be added to a project through the function bar.
+
+The `New File` button opens a text editor to write a file directly into __Tercen__
 
 \
 
@@ -223,7 +234,7 @@ Documents can be added to a project by writing a text file directly in __Tercen_
 
 \
 
-Or uploading a file created in a different program.
+File created in different programs are attached using the `Import File` button.
 
 \
 
@@ -233,4 +244,4 @@ Or uploading a file created in a different program.
 
 \
 
-Next... Creating and Editing Workflows
+__Next...__ Navigating through Workflows.
