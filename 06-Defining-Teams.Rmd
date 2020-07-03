@@ -87,4 +87,4 @@ Now you can Add and Remove team members, or change their access permissions.
 
 \
 
-__Next__... Add an app to your Library.
+__Next__... add a calculation app to your team library.

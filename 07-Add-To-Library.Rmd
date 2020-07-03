@@ -14,15 +14,19 @@ There are different types of App.
 
 __template app__ defines an analysis pipeline to suit a type of research (e.g. RNAseq).\
 __workflow app__ a pre-defined set of computations and their visualisations (e.g. a two-group comparison)\
-__operator app__  performs a single computation on the data. (e.g. PCA function)\
+__operator app__ performs a single computation on the data. (e.g. PCA function)\
 
 \
 
-Libraries can be built from differant sources such as the public __Tercen app library__ or uploaded from private sources such as __GitHub__.
+Apps can be added to a teams Library from different sources, such as the public __Tercen app library__ or from private sources such as __GitHub__.
 
 \
 
-For a more in-depth discussion of apps, and their uses, please see the User Guide.
+How Apps are applied to make computations is discussed int he next Chapter... __Understanding Projects__
+
+\
+
+For a more in-depth discussion of apps, and their uses, you can also refer to the Tercen [__User Manual__](https://tercen.github.io/tercen-book/)
 
 \
 

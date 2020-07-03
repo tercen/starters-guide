@@ -22,6 +22,25 @@ Projects have the following characteristics.
 
 \
 
+> Re-order - New, explore, clone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Explore public projects {-}
 
@@ -113,6 +132,8 @@ Your new project is now ready for modification.
 \
 
 ## Create a new project {-}
+
+> Point to the crabs tutorial - has basics of data science
 
 __From your personal home page__
 
