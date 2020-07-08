@@ -8,7 +8,7 @@ It is not intended to give detailed knowledge of complex technical areas such as
 
 \
 
-We recommend that you try our Crabs Tutorial to gain more in-depth knowledge of workflows using a real data set. 
+We recommend that you try our [__Crabs Tutorial__](https://tercen.github.io/crabs_tutorial/) to gain more in-depth knowledge of workflows using a real data set. 
 
 \
 

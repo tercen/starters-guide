@@ -2,11 +2,7 @@
 
 This section will orientate you to the __Tercen__ project screens. 
 
-\
-
 You will learn the meanings of the icons.
-
-\
 
 You will be shown how to upload data and view a workflow.
 
@@ -15,6 +11,8 @@ You will be shown how to upload data and view a workflow.
 ## Navigating and commenting {-}
 
 Icons perform administrative tasks and to provide visual information about the status of your project.
+
+\
 
 <center><img src="images/08_work_with_projects_project_icons_1.png"></center>
 
@@ -26,6 +24,8 @@ Icons perform administrative tasks and to provide visual information about the s
 \
 
 Hovering your mouse over a project element will cause administration icons to appear.
+
+\
 
 <center><img src="images/08_work_with_projects_project_icons_2.png"></center>
 
@@ -39,6 +39,8 @@ Hovering your mouse over a project element will cause administration icons to ap
 \
 
 A project has three main tabs for organisation.
+
+\
 
 <center><img src="images/08_work_with_projects_project_tabs.png"></center>
 
@@ -66,6 +68,8 @@ Clicking on a link will bring you to the relevant event.
 
 Selecting the __Discussions__ tab will show the forums where feedback is shared.
 
+\
+
 <center><img src="images/08_work_with_projects_discussions_add.png"></center>
 
 \
@@ -81,8 +85,6 @@ Discussion threads can be created and comments added by anyone with permission t
 Users with project __admin__ permissions can edit or delete all comments.
 
 \
-
-The __Project__ tab contains three sections containing elements of the research project.
 
 \
 
@@ -119,7 +121,11 @@ These are the files that are attached to the project. They can be documents, dat
 
 ## Upload data {-}
 
+\
+
 <center><img src="images/08_work_with_projects_new_data_set.png"></center>
+
+\
 
 Click `New data set` to add a data file
 
@@ -157,16 +163,17 @@ __Tercen__ will attempt to recognise your data and will show you error messages 
 
 When your data is recognised __Tercen__ will display a representation of it.
 
+You can click on the field type (e.g character) to change it to your preferred data type.
+
+\
+
 <center><img src="images/08_work_with_projects_new_data_set_representation.png"></center>
+
+\
 
 Click the ``Next` button
 
-\
-
 There is an optional screen where data in a wide format can be configured to have a long format.
-
-\
-
 
 This is useful for some later calculations.
 

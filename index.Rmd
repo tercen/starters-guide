@@ -29,7 +29,7 @@ We provide simple visual tools that allow a non-programmer to build powerful dat
 
 \
 
-Biologists can explore their data sets unaided. You can drag and drop complex computations together. No need to wait for a Bioinformatician.
+Biologists can explore their data sets unaided. You can drag-and-drop complex computations together. No need to wait for a Bioinformatician.
 
 \
 

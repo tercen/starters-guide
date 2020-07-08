@@ -1,6 +1,8 @@
 # Define a team
 
-Teams are an important concept in __Tercen__. Researchers are members of a team and as part of the team they create and own projects. 
+Teams are an important concept in __Tercen__. 
+
+Researchers are members of a team and as part of the team they create and own projects. 
 
 \
 
@@ -17,8 +19,6 @@ Teams have the following characteristics.
 
 In __Tercen__ you always work in a team. Even if it is just a single member of your personal team.
 
-\
-
 To create a team select the __Teams__ tab on your personal home page. 
 
 \
@@ -29,8 +29,6 @@ To create a team select the __Teams__ tab on your personal home page.
 
 Press the `New Team` button.
 
-\
-
 Configure the team on the administration page.
 
 \
@@ -40,10 +38,10 @@ Configure the team on the administration page.
 \
 
 * Name the team
-
 * Enter the user-name of any person you want to add to the team.
-
 * Select their access permissions.
+
+\
 
 `Read`        - Can view and clone projects\
 `Read Write`  - Can modify projects, such as adding operators to work-flows\
@@ -70,8 +68,6 @@ To do this, access the Team page by clicking its icon.
 \
 
 Select the `Members` tab
-
-\
 
 Click the `Manage team members` link
 

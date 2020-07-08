@@ -28,11 +28,11 @@ All parts of the header bar are actionable by clicking on them.
 
 \
 
-2. A pathway shows your current location. 
+2. A breadcrumb pathway shows your current location. 
 
      It will change as you navigate through the system. 
      
-     To jump to a section, just click on it.
+     To jump to any section, just click on it.
 <center><img src="images/View_personal_page_header_breadcrumb_3.png"></center>
 
 \
@@ -42,7 +42,7 @@ All parts of the header bar are actionable by clicking on them.
 
 \
 
-4. User documentation. You will find user manuals and resources for programmers linked here.
+4. `User documentation` You will find user manuals and resources for programmers linked here.
 
 \
 
@@ -69,17 +69,24 @@ All parts of the header bar are actionable by clicking on them.
 \
 
 In __Tercen__ you are always working in a team. 
+
 Even if it is a team of just one person, like your personal page.
 
-Teams have members and  projects. Projects have data, work-flows, and documentation. 
+Teams have members and  projects. 
 
-__Tercen__ assigns an icon to a team when it is created. You were assigned the large icon for your personal account. Icons exist to to help you identify which team you are working for at any time.
+Projects have data, work-flows, and documentation. 
 
-The smaller icons at the bottom of the section show the teams you are member of.
+__Tercen__ assigns an icon to a team when it is created. 
 
-\
+You were assigned the large icon for your personal account. 
 
-Click a small icon go to a Team page and see all of the projects that team is working on.
+Icons exist to to help you identify which team you are working for at any time.
+
+The small icons at the bottom of this section show the teams you are currently a member of.
+
+Click one of the small icons go to a Team page.
+
+There you will see all of the projects that team is working on.
 
 \
 
@@ -95,11 +102,9 @@ Click a small icon go to a Team page and see all of the projects that team is wo
 
 \
 
-This is the core area of __Tercen__. When you sign-in this page will default to your personal projects. 
+This is the core area of __Tercen__. 
 
-To work on a project owned by one of your teams, click the icon and view the Team page.
-
-\
+When you sign-in this page will default to your personal projects. 
 
 At the top of the project area you will see the following tabs:\
 
@@ -114,19 +119,18 @@ At the top of the project area you will see the following tabs:\
 __Projects__
 
 \
+
 <center><img src="images/View_personal_page_projects_projects.png"></center>
 
 \
 
-Click the `plus button` to create a new project. This is described in Chapter 8. "Create a new project"
+Click the `plus button` to create a new project. 
 
-\
+This is described in Chapter 8. "Understanding Projects"
 
 Under __Recently used__ the last four projects you accessed will be visible to click for a quick return.
 
-\
-
-Your personal projects are listed under __Projects__. team projects are not shown here. 
+Your personal projects are listed under __Projects__. Team projects are not shown here. 
 
 \
 
@@ -136,13 +140,13 @@ __Teams__
 
 <center><img src="images/View_personal_page_projects_teams.png"></center>
 
+\
+
 In this section clicking the icon of a team will take you to that teams project page.
 
-\
+Add a team with the `plus button`
 
-Add a team with the `plus button` or delete a team by clicking on the bin that appears underneath its icon.
-
-\
+Delete a team by clicking on the bin that appears underneath its icon.
 
 Creating teams is explained in Chapter 6 "Define a Team".
 
@@ -154,9 +158,11 @@ __Library__
 
 <center><img src="images/View_personal_page_projects_Library.png"></center>
 
-In this section you can add Mathematical Operators or Apps to be  available for use in the workflows of your personal projects.
-
 \
+
+In this section you can add Mathematical Operators or Apps. 
+
+They will be available for use in the workflows of your personal projects.
 
 See Chapter 7. "Add apps to a library".
 
@@ -168,7 +174,11 @@ __Activities__
 
 <center><img src="images/View_personal_page_projects_activities.png"></center>
 
-A log of activity on your personal projects is kept here.By clicking on the link you can jump to the area of interest.
+\
+
+A log of activity on your personal projects is kept here.
+
+By clicking on the link you can jump to the area of interest.
 
 \
 
@@ -178,9 +188,9 @@ __Subscription__
 
 <center><img src="images/View_personal_page_projects_subscription.png"></center>
 
-Here you will see the details of your subscription.
-
 \
+
+Here you will see the details of your subscription.
 
 You can upgrade or cancel your subscription. Or change your payment method.
 
