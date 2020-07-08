@@ -91,23 +91,23 @@ You have created a new project
 
 The simplest method to create a project is to __Clone__ it from a pre-existing one. 
 
-Any project can be cloned once you have access to it.
+Any project can be cloned as long as you have access to it.
 
 Personal projects, projects created by your team, and publicly shared projects can all be cloned. 
 
 \
 
-To access the __Tercen__ public projects click the `Explore` link in the header bar. 
+To access public projects on __Tercen__ click the `Explore` link in the header bar. 
 
-You will be taken to the public projects page.
+You will be taken to the public pages.
 
 \
 
 It is divided into two sections.
 
-* `Collections` is where __Tercen__ displays sponsored research examples
+* `Collections` is where __Tercen__ displays sponsored research examples.
 
-* `Community` is where all of the projects made __Public__ by their creators appear.
+* `Community` is where all projects made __Public__ by their creators appear.
 
 \
 
@@ -115,52 +115,41 @@ It is divided into two sections.
 
 \
 
-Find the project you wish to clone. 
-
-
-> __New gif here - bug to be fixed__
-
-For our example We will choose our tutorial crabs project. 
+For our example We will choose our tutorial crabs project in the Collections section. 
 
 You can read more about it [__here__](https://tercen.com/tercen/p/2d43640fe074f127a89302a8958b4b15)
 
-<center><img src="images/work_with_projects_explore_community_select.png"></center>
-
 \
 
-Hover your mouse over the project until the `Clone` icon appears. 
+Click `Explore`
 
-<left><img src="images/work_with_projects_explore_community_clone.png"></left>
+Check you are in the `Collections` tab.
 
-\
+Hover your mouse over the __Crabs Tutorial__ project until the `Clone` icon appears. 
 
 Click the `Clone` icon.
 
-\
-
 Select the destination of the new project, your personal home page or, one of your teams.
 
-<center><img src="images/work_with_projects_explore_community_clone_add_team.png"></center>
-
-\
-
 Click the `Next` Button
-
-\
 
 Edit the name and description of your new project.
 
 Decide if you want to make it publicly available.
 
-<center><img src="images/work_with_projects_explore_community_clone_details.png"></center>
+Click the `Ok` Button
 
 \
 
-Click the `Ok` Button
+<center><img src="images/0802_Clone_a_project.gif"></center>
 
-Cloning copies the data, workflows, and supporting documents contained in the original project. 
+\
 
-Discussion forum posts and activity histories are not copied. These are re-set to be blank.
+Cloning will copy the data, workflows, and supporting documents contained in the original project. 
+
+Discussion forum posts and activity histories are not copied. 
+
+These are re-set to be blank.
 
 \
 

@@ -149,7 +149,7 @@ __Tercen__ will attempt to detect the type of data file you have added.
 
 You can over-ride the settings by selecting the following
 
-* Seperator character
+* Separator character
 * Style used for quotes
 * Encoding Type
 
