@@ -2,19 +2,21 @@
 
 Workflows contain the core functionality of __Tercen__. 
 
-They are the place where computations are performed and visualisations are created from the results.
+They are the place where computations are performed and visualisations created from the results.
 
-In this Chapter you will learn how to navigate the workflow building page, identify Data Steps, and view visualisations.
+In this Chapter you will learn how to navigate the workflow building page, identify Data Steps, and make view visualisations.
 
-It is not intended for you to be an expert immediately after reading this guide. Further study is recommended before you attempt to create your own workflow. 
+It is not intended for you to be an expert immediately after reading this guide. 
 
-A great next step is to complete our tutorial which shows you how to re-create our example Crabs Project.
+Further study is recommended before you attempt to create workflows. 
+
+A great next step is to complete our Crabs Tutorial which shows you how to re-create an example Project.
 
 \
 
 __The Workflow Building Page__
 
-The best way to start getting familiar with workflows is to clone an existing project and examine it. 
+The best way to get familiar with workflows is to clone an existing project and examine it. 
 
 \
 
@@ -44,15 +46,17 @@ Workflows are made up of __Data Steps__ (represented by boxes) and __links__ (re
 
 They are arranged in a hierarchy where the output of a Data Step forms the input of the Step linked in  the tier below.
 
-Both the calculations made by operators in the Data Step, and the original data, are passed to the next step.
+Operators are added to a Data Step to perform calculations.
 
-The first step in a workflow is always the Data Table which was created when data was uploaded (see Chapter 9)
+The results of these calculations, and the original data, are passed to the next step.
+
+The first step in a workflow is always the Data Table created when your data was uploaded (see Chapter 9)
 
 \
 
 __Manipulating Data Steps__
 
-Data Steps are added and adjusted by means of two menus activated by right clicking your mouse.
+Data Steps are added and adjusted using two menus activated by right-clicking your mouse.
 
 Right clicking on the __white background__ of the builder brings up the short menu.
 
@@ -63,7 +67,7 @@ Right clicking on the __white background__ of the builder brings up the short me
 \
 
 * `Save workflow` - Important after a modification to a step or after performing a caluclation
-* `Add` - Add a new step which you will  link manually
+* `Add` - Add a new step which you will link manually
 * `Run All` - Execute all calculations performed by operators in all steps.
 
 \
@@ -99,7 +103,7 @@ Steps can be linked manually by clicking on nodes.
 
 __Running__
 
-The Data Step will show a green light when it has performed it's internal calculations and the results are ready to pass to the next tier.
+The Data Step will show a green light when it has performed its internal calculations and the results are ready to pass to the next tier.
 
 Steps which have been adjusted, reset, or newly added need to be re-calculated.
 
@@ -111,9 +115,9 @@ Steps which have been adjusted, reset, or newly added need to be re-calculated.
 
 __Viewing a Data Visualisation__
 
-Double click on a data step or edit it from the long menu to view the projection made by that step.
+Double click on a data step, or edit it from the long menu, to view the projection made by that step.
 
-You will see the Projection Page.
+You will see the Crosstab Projection Page.
 
 \
 
@@ -131,9 +135,11 @@ This included the original table and any re-factored data from previous steps.
 
 \
 
-The Factors section shows the groups and variables that are being used. 
+The Factors section shows the groups and variables in use. 
 
-They can be the headers from your original data file or groups made by the calculations of a previous data step.
+They can be the headers from your original data file. 
+
+Or groups formed by the calculations of a previous data step.
 
 \
 
@@ -141,7 +147,7 @@ They can be the headers from your original data file or groups made by the calcu
 
 \
 
-The filters and visualisations control panel control how your output looks.
+The filters and visualisations panel controls how your output looks.
 
 \
 
@@ -149,13 +155,13 @@ The filters and visualisations control panel control how your output looks.
 
 \
 
-The operators panel allows you to add or change which operator from your library is being applied.
+The Operators panel allows you to add or change which Operator is being applied from your Library.
 
 \
 
 <center><img src="images/09_workflows_visualisation_operator.png"></center>
 
-You can run and re-set calculations here.
+You can run and reset calculations here.
 
 \
 
@@ -165,7 +171,10 @@ You can run and re-set calculations here.
 
 \
 
-Thank you for reading the __Tercen starters guide__ we hope you have gained enough knowledge to navigate the software and begin to learn how it is used. 
+Thank you for reading the __Tercen starters guide__ 
+
+We hope you have gained enough knowledge to navigate the software and begin your first project.
+ 
 
 \
 

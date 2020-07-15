@@ -1,6 +1,6 @@
 # Navigate your personal page
 
-In this section we give an overview of your personal home page.
+In this chapter, we give an overview of your personal home page.
 
 \
 
@@ -38,11 +38,11 @@ All parts of the header bar are actionable by clicking on them.
 \
 
 3. Click `Explore` to enter the community section of __Tercen__.
-     Publicly available projects are found here. 
+     Publicly available projects can be found here.
 
 \
 
-4. `User documentation` You will find user manuals and resources for programmers linked here.
+4. `User documentation`: You will find user manuals and resources for programmers linked here.
 
 \
 
@@ -50,7 +50,7 @@ All parts of the header bar are actionable by clicking on them.
 
      `Resource` shows how much CPU and Storage you have used on projects so far. 
      
-     It will show how the computing resources still available on your subscription.
+     It also details the computing resources still available on your subscription.
      
      `About` gives information on the current version of the software.
 
@@ -68,13 +68,11 @@ All parts of the header bar are actionable by clicking on them.
 
 \
 
-In __Tercen__ you are always working in a team. 
-
-Even if it is a team of just one person, like your personal page.
+In __Tercen__ you are always working in a team, even if it is a team of just one person, like your personal page.
 
 Teams have members and  projects. 
 
-Projects have data, work-flows, and documentation. 
+Projects have Data, Workflows, and Documentation. 
 
 __Tercen__ assigns an icon to a team when it is created. 
 
@@ -84,7 +82,7 @@ Icons exist to to help you identify which team you are working for at any time.
 
 The small icons at the bottom of this section show the teams you are currently a member of.
 
-Click one of the small icons go to a Team page.
+Click on one of the small icons to go to a Team page.
 
 There you will see all of the projects that team is working on.
 
@@ -126,7 +124,7 @@ __Projects__
 
 Click the `plus button` to create a new project. 
 
-This is described in Chapter 8. "Understanding Projects"
+Projects are discussed in more detail in Chapter 8: Understanding Projects
 
 Under __Recently used__ the last four projects you accessed will be visible to click for a quick return.
 
@@ -142,13 +140,13 @@ __Teams__
 
 \
 
-In this section clicking the icon of a team will take you to that teams project page.
+In this section clicking the icon of a team will take you to that team's project page.
 
 Add a team with the `plus button`
 
 Delete a team by clicking on the bin that appears underneath its icon.
 
-Creating teams is explained in Chapter 6 "Define a Team".
+Creating teams is explored in Chapter 6: Define a Team.
 
 \
 
@@ -164,7 +162,7 @@ In this section you can add Mathematical Operators or Apps.
 
 They will be available for use in the workflows of your personal projects.
 
-See Chapter 7. "Add apps to a library".
+See Chapter 7: Add apps to a library.
 
 \
 
@@ -176,9 +174,10 @@ __Activities__
 
 \
 
-A log of activity on your personal projects is kept here.
+An activity log for your personal projects is kept here.
 
-By clicking on the link you can jump to the area of interest.
+Click on a link to jump to the area of interest.
+
 
 \
 
@@ -192,7 +191,7 @@ __Subscription__
 
 Here you will see the details of your subscription.
 
-You can upgrade or cancel your subscription. Or change your payment method.
+You can upgrade, cancel, or change the payment method for your subscription.
 
 \
 

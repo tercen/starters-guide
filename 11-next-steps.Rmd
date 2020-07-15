@@ -1,14 +1,14 @@
 # Next steps
 
-The starters Guide is designed to give you an overview of __Tercen__ and teach you how to navigate the interface.
+The Starter's Guide has been designed to give an overview of __Tercen__ and teach you how to navigate the interface.
 
 \
 
-It is not intended to give detailed knowledge of complex technical areas such as creating workflows. More training is required for that.
+It is not intended to provide detailed knowledge of complex, technical areas such as creating workflows. Further training is required for this.
 
 \
 
-We recommend that you try our [__Crabs Tutorial__](https://tercen.github.io/crabs_tutorial/) to gain more in-depth knowledge of workflows using a real data set. 
+We highly recommend that you try our [__Crabs Tutorial__](https://tercen.github.io/crabs_tutorial/) to gain more in-depth knowledge of workflows using a real data set. 
 
 \
 

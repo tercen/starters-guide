@@ -6,7 +6,7 @@ They are the "containers" where your research and calculations are held.
 
 Projects can be set as private or public.
 
-* __Private__ projects can only be viewed by the person or team that owns it. They can be copied and adjusted only by these people.
+* __Private__ projects can only be viewed by the person or team that owns them. They can be copied and adjusted only by these people.
 
 * __Public__ projects can be viewed and collaborated-on by the wider community. They can be copied by anyone and used as a basis for new research.
 
@@ -14,17 +14,18 @@ Projects can be set as private or public.
 
 Projects have the following characteristics.
 
-* A project is created by a Team.
-* Data is uploaded to projects.
-* Workflows are attached to projects - to analyse and create visualisations of data.
-* Projects hold the record of comments and feedback submitted by your team or community.
-* Supporting documents can be uploaded to projects.
+* A Project is created by a Team.
+* Data is uploaded to a Project.
+* Workflows are attached to a Project - to analyse and create visualisations of data.
+* A Project holds the record of comments and feedback submitted by the Team or the Community.
+* Supporting documents are uploaded to a project.
 
 \
 
 Tercen provides two ways to create a project. 
 
 * __Create New__ - A blank project which you will add data and workflows to.
+
 * __Clone__ - A copy of an existing project, which you then modify. 
 
 \
@@ -93,7 +94,7 @@ The simplest method to create a project is to __Clone__ it from a pre-existing o
 
 Any project can be cloned as long as you have access to it.
 
-Personal projects, projects created by your team, and publicly shared projects can all be cloned. 
+Personal projects, projects created by your team, and publicly shared projects, can all be cloned. 
 
 \
 
@@ -105,9 +106,9 @@ You will be taken to the public pages.
 
 It is divided into two sections.
 
-* `Collections` is where __Tercen__ displays sponsored research examples.
+* `Collections`: where __Tercen__ displays sponsored research examples.
 
-* `Community` is where all projects made __Public__ by their creators appear.
+* `Community`: where all projects made __Public__ by their creators appear.
 
 \
 
@@ -129,7 +130,7 @@ Hover your mouse over the __Crabs Tutorial__ project until the `Clone` icon appe
 
 Click the `Clone` icon.
 
-Select the destination of the new project, your personal home page or, one of your teams.
+Select the destination of the new project; your personal home page or one of your teams.
 
 Click the `Next` Button
 

@@ -1,16 +1,14 @@
 # Working with projects
 
-This section will orientate you to the __Tercen__ project screens. 
+This section will familiarise you with the __Tercen__ project screens. 
 
-You will learn the meanings of the icons.
-
-You will be shown how to upload data and view a workflow.
+You will learn the meanings of the icons, how to upload data, and view a Workflow.
 
 \
 
 ## Navigating and commenting {-}
 
-Icons perform administrative tasks and to provide visual information about the status of your project.
+Icons perform administrative tasks and provide visual information about the status of your project.
 
 \
 
@@ -19,7 +17,7 @@ Icons perform administrative tasks and to provide visual information about the s
 \
 
 `Clone`   - This icon allows you to copy the project.\
-`Locked`  - Shows that project has not been made public. Only the team can view it.\
+`Locked`  - Shows that project has not been made public. Only the owner can view it.\
 
 \
 
@@ -60,7 +58,7 @@ Selecting the __Activities__ tab will show a history of the project.
 
 Any comments or changes are logged here.
 
-They are listed in a descending time-line.
+They are listed in a descending timeline.
 
 Clicking on a link will bring you to the relevant event.
 
@@ -82,7 +80,7 @@ Discussion threads can be created and comments added by anyone with permission t
 
 \
 
-Users with project __admin__ permissions can edit or delete all comments.
+Users with project __admin__ permissions can edit or delete comments.
 
 \
 
@@ -95,7 +93,7 @@ __Functions Bar__
 
 \
 
-The main commands which can be performed on a project.
+The main commands that can be performed on a project.
 
 \
 
@@ -115,7 +113,9 @@ __Elements List__
 
 \
 
-These are the files that are attached to the project. They can be documents, data, or workflows.
+These are the files that are attached to the project. 
+
+They can be documents, data, or workflows.
 
 \
 
@@ -155,7 +155,7 @@ You can over-ride the settings by selecting the following
 
 Latin 1 is the simplest encoding type but does not recognise all possible diacritical marks. 
 
-If you have data in a language with many accent marks encode your data as UTF-8 before uploading.
+If you have data in a language with many accent marks, encode your data as UTF-8 before uploading.
 
 \
 
@@ -225,7 +225,7 @@ Creating or viewing a workflow will bring you to the Workflow builder page
 
 \
 
-For more detailed information on creating and modifying workflows see the next chapter.
+For more detailed information on creating and modifying workflows see Chapter 10: Understanding Workflows.
 
 \
 
@@ -241,7 +241,7 @@ The `New File` button opens a text editor to write a file directly into __Tercen
 
 \
 
-File created in different programs are attached using the `Import File` button.
+Files created in different programs are attached using the `Import File` button.
 
 \
 

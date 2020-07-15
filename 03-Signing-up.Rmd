@@ -4,7 +4,7 @@ In this section you will create an account for __Tercen__.
 
 \
 
-We recommend using __google chrome__ for the best experience with __Tercen__.
+For the optimal user experience, we recommend using __Tercen__ with __Google Chrome__.
 
 \
 
@@ -35,7 +35,7 @@ Click the `Sign up` button.
 
 \
 
-You have now created an account and we have sent you an email to verify it.
+You have now created an account and will receive a verification email.
 
 \
 
